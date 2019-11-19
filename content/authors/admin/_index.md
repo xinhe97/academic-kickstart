@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xin he (Sean)
+name: Xin He (Sean)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Statistics and Finance
 
 # Organizations/Affiliations
 organizations:
