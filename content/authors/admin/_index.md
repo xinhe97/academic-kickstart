@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Statistics and Finance
     institution: City Universityof Hong Kong
-    year: 2018 - Present
+    year: 2022
   - course: BS in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
   - course: Minor in Applied Mathematics
     institution: Shanghai Jiao Tong University
-    year: 2008
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
