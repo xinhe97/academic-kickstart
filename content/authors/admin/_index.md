@@ -59,7 +59,7 @@ email: "xin.he@my.cityu.edu.hk"
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
+- Visitors]
 ---
 
-Xin He is a PhD candidate.
+Xin He is a PhD candidate at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk).
