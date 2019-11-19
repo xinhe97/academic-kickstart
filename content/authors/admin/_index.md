@@ -47,9 +47,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xinhe97
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xin.he@my.cityu.edu.hk"
