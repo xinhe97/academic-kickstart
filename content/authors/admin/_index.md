@@ -14,27 +14,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: City University of Hong Kong
+  url: "https://www.cityu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Empirical Asset pricing
+- Financial Econometrics
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistics and Finance
+    institution: City Universityof Hong Kong
+    year: 2018 - Present
+  - course: BS in Industrial Engineering
+    institution: Shanghai Jiao Tong University
+    year: 2018
+  - course: Minor in Applied Mathematics
+    institution: Shanghai Jiao Tong University
     year: 2008
 
 # Social/Academic Networking
