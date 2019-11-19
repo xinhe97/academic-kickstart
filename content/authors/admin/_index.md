@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Business
+  - course: Ph.D in Business
     institution: City Universityof Hong Kong
     year: 2022
   - course: BS Major in Industrial Engineering
@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  - icon: cv
    icon_pack: ai
-   link: cv/CV-He-CityU.pdf
+   link: files/CV-He-CityU.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
