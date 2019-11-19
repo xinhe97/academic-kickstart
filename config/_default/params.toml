@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "rose"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -90,7 +90,7 @@ phone = "(852)64830586"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "83th, Tat Chee Avenue", city = "Kowloon Tong", region = "Hong Kong SAR", postcode = "", country = "China", country_code = "CN"}
+address = {street = "83th, Tat Chee Avenue", city = "Kowloon Tong", region = "Hong Kong, China", postcode = "", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,7 +104,7 @@ directions = "Floor 7, Lau Ming Wai Academic Building"
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
