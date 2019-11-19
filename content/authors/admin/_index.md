@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xin He (Sean)
+name: Xin He
 
 # Username (this should match the folder name)
 authors:
@@ -62,5 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk).
-
+Xin He (Sean) is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). If you want an English name, please feel free to call me Sean. I am working on financial research topics with new tools from Machine Learning, Data Science and FinTech.
