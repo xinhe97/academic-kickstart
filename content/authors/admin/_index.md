@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Statistics and Finance
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
