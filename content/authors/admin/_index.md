@@ -24,12 +24,14 @@ interests:
 - Empirical Asset pricing
 - Financial Econometrics
 - Machine Learning
+- Data Science
+- FinTech
 
 education:
   courses:
   - course: Ph.D in Business
     institution: City Universityof Hong Kong
-    year: 2022
+    year: 2023
   - course: BSc in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
@@ -42,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:xin.he@my.cityu.edu.hk".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/xinhe97
@@ -62,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). If you want an English name, please feel free to call me Sean. I am working on financial research topics with new tools from Machine Learning, Data Science and FinTech.
+Xin He (Sean) is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). Please feel free to call me Sean. I am working on financial research topics with new tools from Machine Learning, Data Science and FinTech.
