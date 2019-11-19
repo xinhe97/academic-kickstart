@@ -30,10 +30,7 @@ education:
   - course: Ph.D in Business
     institution: City Universityof Hong Kong
     year: 2022
-  - course: BS Major in Industrial Engineering
-    institution: Shanghai Jiao Tong University
-    year: 2018
-  - course: BS Minor in Applied Mathematics
+  - course: BSc in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
 
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "mailto:xin.he@my.cityu.edu.hk".
+<!-- - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GeorgeCushen -->
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xinhe97
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
