@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:xin.he@my.cityu.edu.hk".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
