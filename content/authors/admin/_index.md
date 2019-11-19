@@ -62,4 +62,5 @@ user_groups:
 - Visitors]
 ---
 
-Xin He is a PhD candidate at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk).
+Xin He is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk).
+
