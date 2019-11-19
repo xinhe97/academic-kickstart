@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Business
+  - course: Ph.D. in Business
     institution: City Universityof Hong Kong
     year: 2022
-  - course: BS in Industrial Engineering
+  - course: BS Major in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
-  - course: Minor in Applied Mathematics
+  - course: BS Minor in Applied Mathematics
     institution: Shanghai Jiao Tong University
     year: 2018
 
