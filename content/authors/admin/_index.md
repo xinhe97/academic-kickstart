@@ -30,8 +30,8 @@ interests:
 education:
   courses:
   - course: Ph.D in Business
-    institution: City Universityof Hong Kong
-    year: 2023
+    institution: City University of Hong Kong
+    year: 2022
   - course: BSc in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
@@ -50,7 +50,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xin.he@my.cityu.edu.hk"
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
