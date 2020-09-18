@@ -1,22 +1,22 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Research"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-
+  page_type = "talk"
+  
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
-
+  
   # Choose how many pages you would like to offset by
   offset = 0
 
@@ -29,7 +29,9 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-
+    exclude_past = false
+    exclude_future = false
+    
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -37,7 +39,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -46,45 +48,22 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-
+  
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-
+  
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-
+  
 [advanced]
- # Custom CSS.
+ # Custom CSS. 
  css_style = ""
-
+ 
  # CSS class.
  css_class = ""
 +++
-
-<!-- {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}} -->
-
-<!-- ### Publication: -->
-
-### Working Papers:
-  - Predicting Individual Corporate Bond Returns
-    - Comming soon
-    - with Guanhao Feng, Junbo Wang
-  - Benchmarking Individual Corporate Bonds
-    - Comming soon
-    - with Guanhao Feng, Junbo Wang
-  - Deep Learning in Predicting Asset Returns
-    - Comming soon
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson
-
-### Pre-doctoral Publications:
-  - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
-    - with Boyu Zhou, Zhongyi Zhou, Xinyi Le
-    - Undergraduate Research Project in Prof. Xinyi Le's Team
-    - ICONIP 2018 (conference)
