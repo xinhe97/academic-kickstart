@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). Please feel free to call me Sean. I am working on financial research topics with new tools from Machine Learning, Data Science and FinTech.
+Xin He (Sean) is a PhD candidate in Statistics and Finance at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). Sean is working on financial research topics with new tools from Machine Learning, Data Science and FinTech.
