@@ -1,6 +1,6 @@
 ---
 # Display name
-name: HE Xin 何欣
+name: HE Xin 何欣 Sean
 
 # Username (this should match the folder name)
 authors:
@@ -24,8 +24,6 @@ interests:
 - Empirical Asset pricing
 - Financial Econometrics
 - Machine Learning
-- Data Science
-- FinTech
 
 education:
   courses:
@@ -58,4 +56,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is a PhD candidate in Statistics at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). Sean has been working on modelling financial data, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
+Sean is a PhD candidate in Statistics at [College of  Business, City Univeristy of Hong Kong](https://www.cityu.edu.hk). Sean has been working on modelling financial data, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
