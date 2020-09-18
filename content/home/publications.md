@@ -86,5 +86,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Pre-doctoral Publications:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
     - with Boyu Zhou, Zhongyi Zhou, Xinyi Le
-    - Undergraduate Research Project in Prof. Xinyi Le's Team
     - ICONIP 2018 (conference)
