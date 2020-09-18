@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xin He
+name: HE Xin 何欣
 
 # Username (this should match the folder name)
 authors:
