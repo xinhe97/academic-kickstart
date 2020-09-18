@@ -73,7 +73,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ### Publication: -->
 
 ### Working Papers:
-  <!-- - [Predicting Individual Corporate Bond Returns]() -->
   - Predicting Individual Corporate Bond Returns
     - Comming soon
     - with Guanhao Feng, Junbo Wang
