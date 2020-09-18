@@ -66,9 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Publications:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
