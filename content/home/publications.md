@@ -75,10 +75,10 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Working Papers:
   - Predicting Individual Corporate Bond Returns
     - Comming soon
-    - with Guanhao Feng, Junbo Wang
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu
   - Benchmarking Individual Corporate Bonds
     - Comming soon
-    - with Guanhao Feng, Junbo Wang
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu
   - Deep Learning in Predicting Asset Returns
     - Comming soon
     - with Guanhao Feng, Jingyu He, and Nicholas Polson
