@@ -76,7 +76,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - Predicting Individual Corporate Bond Returns
     - Comming soon
     - with Guanhao Feng, Junbo Wang, Chunchi Wu
-  - Benchmarking Individual Corporate Bonds
+  - Benchmarking the Cross-Section of Corporate Bonds Return
     - Comming soon
     - with Guanhao Feng, Junbo Wang, Chunchi Wu
   - Deep Learning in Predicting Asset Returns
