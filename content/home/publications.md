@@ -79,10 +79,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Work in Progress:
   - Benchmarking Individual Corporate Bonds
     - with Guanhao Feng, Junbo Wang, Chunchi Wu
-    - Comming soon
   - Deep Learning in Predicting Asset Returns
     - with Guanhao Feng, Jingyu He, and Nicholas Polson
-    - Comming soon
 
 ### Pre-doctoral Publications:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
