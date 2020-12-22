@@ -74,13 +74,15 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Papers:
   - Predicting Individual Corporate Bond Returns
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Dec 2020)
+    - with Guanhao Feng, Junbo Wang (Dec 2020)
+- Benchmarking Individual Corporate Bonds
+  - with Guanhao Feng, Junbo Wang (Dec 2020)
 
 ### Work in Progress:
-  - Benchmarking Individual Corporate Bonds
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu
   - Deep Learning in Predicting Asset Returns
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson
+    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Jan 2021)
+- Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach
+  - with Prince Asamoah
 
 ### Pre-doctoral Publications:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
