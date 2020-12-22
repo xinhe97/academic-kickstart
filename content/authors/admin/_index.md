@@ -14,8 +14,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: College of Business, City University of Hong Kong
+- name: College of Business
   url: "https://www.cb.cityu.edu.hk"
+- name: City University of Hong Kong
+  url: "https://www.cityu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
