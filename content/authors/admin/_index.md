@@ -54,16 +54,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2275-5215
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Xin_He100
-
+# - icon: ssrn
+#   icon_pack: ai
+#   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
