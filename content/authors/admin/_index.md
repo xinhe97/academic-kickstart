@@ -14,8 +14,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: City University of Hong Kong
-  url: "https://www.cityu.edu.hk"
+- name: College of Business, City University of Hong Kong
+  url: "https://www.cb.cityu.edu.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
@@ -57,4 +57,4 @@ user_groups:
 - Visitors
 ---
 
-Sean is a PhD candidate in Statistics at [College of  Business, City University of Hong Kong](https://www.cityu.edu.hk). Sean has been working on empirical asset pricing, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
+Sean is a PhD candidate in Business Statistics at College of  Business, City University of Hong Kong. Sean has been working on empirical asset pricing, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
