@@ -48,6 +48,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xinhe97
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/xinhe97/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xin.he@my.cityu.edu.hk"
