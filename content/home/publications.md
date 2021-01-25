@@ -74,13 +74,13 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Papers:
   - Predicting Individual Corporate Bond Returns
-    - with Guanhao Feng, Junbo Wang (Dec 2020)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Jan 2021)
 - Benchmarking Individual Corporate Bonds
-  - with Guanhao Feng, Junbo Wang (Dec 2020)
+  - with Guanhao Feng, Junbo Wang, Chunchi Wu (Feb 2021)
 
 ### Work in Progress:
   - Deep Learning in Predicting Asset Returns
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Jan 2021)
+    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Feb 2021)
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach
   - with Prince Asamoah -->
