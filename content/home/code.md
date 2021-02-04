@@ -72,12 +72,12 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
-### Working Papers:
+###  Open Source Codes:
 
 - Equity characteristics and returns
   - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
   - [SAS](https://github.com/Feng-CityUHK/)
 
-### Work in Progress:
+### In Progress:
 
 - [Sorted Portfolio](https://github.com/xinhe97/SortCS)
