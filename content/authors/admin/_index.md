@@ -27,6 +27,7 @@ interests:
 - Financial Econometrics
 - Machine Learning
 - Textual Analysis
+- Bayesian Statistics
 
 education:
   courses:
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Sean is a PhD candidate in Business Statistics at College of  Business, City University of Hong Kong. Sean has been working on empirical asset pricing, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
+Sean is a PhD candidate in Business Statistics at College of  Business, City University of Hong Kong. Sean has been working on financial economics, with new methods from Econometrics, Machine Learning, Data Science and FinTech.
