@@ -1,0 +1,210 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.2 (3/28/15)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute 
+% (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Modified by:
+% Daniel L Marks <xleafr@gmail.com> 3/28/2015
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%-------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%-------------------------------------------------------------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% You can have multiple style options the legal options ones are:
+%
+%   centered:	the name and address are centered at the top of the page 
+%				(default)
+%
+%   line:		the name is the left with a horizontal line then the address to
+%				the right
+%
+%   overlapped:	the section titles overlap the body text (default)
+%
+%   margin:		the section titles are to the left of the body text
+%		
+%   11pt:		use 11 point fonts instead of 10 point fonts
+%
+%   12pt:		use 12 point fonts instead of 10 point fonts
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[margin]{res}  
+
+% Default font is the helvetica postscript font
+\usepackage{helvet}
+
+% Chinese Character
+
+
+
+% Increase text height
+\textheight=700pt
+
+\usepackage{xcolor}
+%\newcommand\updateinfo{\color{black} Updated on \today}
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+	\monthname[\THEMONTH], \THEYEAR}
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+%	NAME AND ADDRESS SECTION
+%-------------------------------------------------------------------------------
+%\name{Xin HE (Sean)}
+%\address{\today}
+
+\name{Xin HE}
+\address{\monthyeardate\today}
+
+
+% Note that addresses can be used for other contact information:
+% -phone numbers
+% -email addresses
+% -linked-in profile
+
+%\address{
+%7/F, Lau Ming Wai Academic Building\\
+%83 Tat Chee Avenue, Kowloon Tong\\
+%Hong Kong, China
+%}
+%\address{xin.he@my.cityu.edu.hk \\ https://xinhe97.github.io\\ \updateinfo \\}
+
+
+% Uncomment to add a third address
+% \address{Address 3 line 1\\Address 3 line 2\\Address 3 line 3}
+%-------------------------------------------------------------------------------
+
+\begin{resume}
+
+%-------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%-------------------------------------------------------------------------------
+
+%\section{\sc Contact Information}
+
+%\begin{tabular}{@{}p{2.75in}p{.85in}p{3in}}
+%	Floor 7, Lau Ming Wai Academic Building	   & \textit{E-mail:}       & xin.he@my.cityu.edu.hk\\        
+%	83 Tat Chee Avenue, Kowloon Tong 			& \textit{Webpage:}    & https://xinhe.netlify.com \\
+%	Hong Kong SAR, China  								& \textit{Last update:} & \today \\
+%\end{tabular}
+
+\section{\sc Contact Information}
+	Floor 7, Lau Ming Wai Academic Building	   \hfill xin.he@my.cityu.edu.hk\\        
+	83 Tat Chee Avenue, Kowloon, Hong Kong, China 	\hfill   https://www.xinhesean.com \\
+
+\section{\sc Education}
+\textbf{City University of Hong Kong, College of Business}\\
+{Ph.D. Candidate in Business Statistics, 2018 - present}
+
+\textbf{Shanghai Jiao Tong University}\\
+{B.S. in Industrial Engineering, 2014 - 2018}
+
+\section{\sc Research Interests}
+{FinTech, Empirical Asset Pricing, Machine Learning, Financial Econometrics, Bayesian Statistics, Textual Analysis}
+
+\vspace{5mm}
+
+\section{\sc Working \\ Paper}
+
+\textbf{Predicting Individual Corporate Bond Returns \\}
+with Guanhao Feng, Junbo Wang, and Chunchi Wu. Jan. 2021.
+
+\textbf{Benchmarking Individual Corporate Bonds \\}
+with Guanhao Feng, Junbo Wang, and Chunchi Wu.  Feb. 2021.
+
+\textbf{Deep Learning for Predicting Asset Returns \\}
+with Guanhao Feng, Jingyu He, and Nicholas Polson.
+
+% \section{\sc Pre-PhD Project}
+
+% %\textbf{Ensemble Learning for Corporate Bond Returns\\}
+% %\normalfont{Corporate bond returns are predictable with machine learning methods and combinational forecast. We find \textit{Neural Networks} have the best out-of-sample predictive ability among various ensemble learning methods. Further we compare the \textit{Combinational Forecast} and \textit{Multivariate Forecast}.\hfill{2019}}
+
+% \textbf{Applications of Image Recognition on Flow Line Inspection\\}
+% Publish in ICONIP 2018 (conference) \\
+% \normalfont{Develop algorithms (Convolutional Neural Networks \& Transfer-Learning) to detect flawed products with the input of product images. 2018}
+
+% \textbf{Research on discrepancy of interest settlement system of MMF\\}
+% \normalfont{Research on the economic background of the discrepancy of interest settlement system of money market funds between Shanghai Exchange and Shenzhen Exchange. 2016}
+
+\section{\sc Teaching Experience}
+Tutorial: \\
+\normalfont{Business Statistics. 20/21 B\\} 
+\\
+Teaching Assistant: \\
+\normalfont{Statistical Modeling in Marketing. 18/19, 19/20\\}
+\normalfont{Statistical Modeling in Economics and Finance. 18/19, 19/20\\}
+\normalfont{Operations Management. 18/19\\}
+
+%\section{PROFESSIONAL\\EXPERIENCE}
+%
+%\textbf{Guotai Junan Securities Co., Ltd \\}
+%\normalfont{Quant Intern, FICC, Commodities Desk \hfill{Aug 17 - Dec 17}}
+%
+%\textbf{Wanjia Asset Management Co., Ltd \\}
+%\normalfont{Fund of Fund Researcher \hfill{Feb 17 - Jun 17}}
+%
+%\vspace{5mm}
+
+\section{\sc Honors and Awards}
+
+\normalfont{Ph.D. Studentship, City University of Hong Kong. 2018 - 2022\\}
+\normalfont{Second Prize, National Contest of Industrial Engineering Applications. 2016\\}
+\normalfont{Academic Excellence Award, Shanghai Jiao Tong University. 2015, 2016, 2017\\}
+
+
+\section{\sc Academic Service}
+
+Ad Hoc Referee: \\
+Journals: \\
+Econometrics and Statistics, 
+Econometrics,
+Economies, 
+Transactions on Intelligent Systems and Technology,
+International Journal of Financial Studies.
+
+\section{\sc Presentations}
+
+2021 \\
+Camphor Economic Society Seminar (CEC),
+37th International Conference of the French Finance Association (AFFI),
+Financial Markets and Corporate Governance Conference (FMCG),
+
+
+\section{\sc Discussion}
+
+``How should we measure the performance of corporate bond mutual funds? Evaluating model quality and impact on inferences'' at FMA Annual Conference (2020/10, Virtual)
+
+%\section{\sc Seminar Attendance}
+%
+%FMA Annual Meeting (2020/10, Online)\\
+%Twelfth Annual SoFiE Conference (2019/6, Shanghai)\\
+%China International Conference in Finance (2019/7, Guangzhou)\\
+
+\section{\sc Technical Skills}
+
+Programming : Python, R, MATLAB, SAS
+\\
+Database : CRSP, Compustat, IBES, TRACE, FISD, Wind
+
+%-------------------------------------------------------------------------------
+
+
+\end{resume}
+\(\)\end{document}
