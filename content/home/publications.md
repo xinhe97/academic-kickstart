@@ -84,7 +84,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Work in Progress:
   - Deep Learning in Predicting Asset Returns
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Feb 2021)
+    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Mar 2021)
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
 
