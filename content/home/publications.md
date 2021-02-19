@@ -77,16 +77,18 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Jan 2021)
     - Presented at CEC Fujian
     - Scheduled for [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
-- [Benchmarking Individual Corporate Bonds](files/BCM_CB.pdf)
-  - with Guanhao Feng, Junbo Wang, Chunchi Wu (Feb 2021)
-  - Presented at CEC Beijing
-  - Scheduled for [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+  - [Benchmarking Individual Corporate Bonds](files/BCM_CB.pdf)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Feb 2021)
+    - Presented at CEC Beijing
+    - Scheduled for [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+
 ### Work in Progress:
   - Deep Learning in Predicting Asset Returns
     - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Feb 2021)
 
-<!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach
-  - with Prince Asamoah -->
+<!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
+
+<!-- - Time Series Efficient and Mean Variance Efficient Portfolio -->
 
 ### Pre-doctoral Publications:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
