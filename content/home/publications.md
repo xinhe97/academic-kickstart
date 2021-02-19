@@ -72,7 +72,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
-### Working Papers:
+### Working Paper:
   - [Predicting Individual Corporate Bond Returns](files/CorpBond_ML.pdf)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Jan 2021)
     - Presented at CEC Fujian
@@ -90,7 +90,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- - Time Series Efficient and Mean Variance Efficient Portfolio -->
 
-### Pre-doctoral Publications:
+### Pre-doctoral Publication:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
     - with Boyu Zhou, Zhongyi Zhou, Xinyi Le
     - ICONIP 2018 (conference)
