@@ -75,16 +75,14 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Working Paper:
   - [Predicting Individual Corporate Bond Returns](files/CorpBond_ML.pdf)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Jan 2021)
-    - Presented at CEC Fujian
-    - Scheduled for [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+    - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
   - [Benchmarking Individual Corporate Bonds](files/BCM_CB.pdf)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Feb 2021)
-    - Presented at Fudan Univ*, CEC Beijing
-    - Scheduled for Univ Gothenburg*, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Mar 2021)
+    - Presented at Fudan*, CEC Beijing,  [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
 
 ### Work in Progress:
   - Deep Learning in Predicting Asset Returns
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson  (Mar 2021)
+    - with Guanhao Feng, Jingyu He, and Nicholas Polson
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
 
