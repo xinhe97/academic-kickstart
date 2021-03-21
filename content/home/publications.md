@@ -78,7 +78,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
   - [Benchmarking Individual Corporate Bonds](files/BCM_CB.pdf)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Mar 2021)
-    - Presented at Fudan*, CEC Beijing,  [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+    - Presented at Fudan*, Gothenburg*, CEC Beijing,  [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
 
 ### Work in Progress:
   - Deep Learning in Predicting Asset Returns
