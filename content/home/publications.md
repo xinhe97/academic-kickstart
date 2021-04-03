@@ -80,10 +80,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Mar 2021)
     - Presented at Fudan$*$, Gothenburg$*$, CEC Beijing,  [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
 
-<!--### Work in Progress:
-  - Deep Learning in Predicting Asset Returns
-    - with Guanhao Feng, Jingyu He, and Nicholas Polson
--->
+### Work in Progress:
+  - Earnings Nowcast and Earnings Surprise
+  - Regression Tree in Asset Pricing Models
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
 
