@@ -78,11 +78,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
   - [Benchmarking Individual Corporate Bonds](files/BCM_CB.pdf)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
-    - Presented at Fudan University, University of Gothenburg, CEC Beijing, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
+    - Presented at 2021 SoFiE Summer School at NYU Shanghai, Fudan University, University of Gothenburg, CEC Beijing, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [CIRF2021](https://cirforum.org/cirf2021/forum.php)
 
 ### Work in Progress:
+  - Factor Pricing Using Interpretable and Arbitrage-Free Trees
   - Earnings Nowcast and Earnings Surprise
-  - Regression Tree in Asset Pricing Models
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
 

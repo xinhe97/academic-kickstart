@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Sean is a PhD candidate in Business Statistics at College of  Business, City University of Hong Kong. Sean has been working on FinTech and Financial Economics, with new methods from Machine Learning, Econometrics, Bayesian Statistics and Data Science.
+Sean is a PhD candidate in Business Statistics at College of  Business, City University of Hong Kong. Sean has been working on FinTech and Financial Economics, with new methods from Machine Learning, Econometrics, and Data Science.
