@@ -82,6 +82,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Panel Trees Under Global Criterion: An Application to Asset Pricing](files/PTree.pdf)
     - with Lin Will Cong, Guanhao Feng, Jingyu He (Sept 2021.)
     - Presented at Shanghai Jiao Tong University, Shanghai University of Finance and Economics, HKAIFT-Columbia joint seminar
+
 <!-- 
 ### Work in Progress:
   - Factor Pricing Using Interpretable and Arbitrage-Free Trees
