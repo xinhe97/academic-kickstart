@@ -83,10 +83,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Lin Will Cong, Guanhao Feng, Jingyu He (Sept 2021.)
     - Presented at Shanghai Jiao Tong University, Shanghai University of Finance and Economics, HKAIFT-Columbia joint seminar
 
-<!-- 
-### Work in Progress:
-  - Factor Pricing Using Interpretable and Arbitrage-Free Trees
-  - Earnings Nowcast and Earnings Surprise -->
+<!-- ### Work in Progress: -->
+<!--   - Factor Pricing Using Interpretable and Arbitrage-Free Trees -->
+<!--   - Earnings Nowcast and Earnings Surprise -->
 
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
 
