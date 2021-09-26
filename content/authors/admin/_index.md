@@ -28,7 +28,6 @@ interests:
 - Financial Econometrics
 - Machine Learning
 - Textual Analysis
-- Bayesian Statistics
 
 education:
   courses:
