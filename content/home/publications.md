@@ -73,7 +73,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ### Publication: -->
 
 ### Working Paper:
-  - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
+  - [Predicting Individual Corporate Bond Returns](https://ssrn.com/abstract=3870306 )
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
     - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome)
   - [Benchmarking Individual Corporate Bonds](https://ssrn.com/abstract=3940817)
