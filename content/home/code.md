@@ -77,7 +77,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 - Equity characteristics and returns
   - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
   - [SAS](https://github.com/Feng-CityUHK/)
+- [Sorted Portfolio](https://github.com/xinhe97/SortCS)
 
 ### In Progress:
 
-- [Sorted Portfolio](https://github.com/xinhe97/SortCS)
+- [Basis Asset](https://github.com/Feng-CityUHK/basis_asset)
