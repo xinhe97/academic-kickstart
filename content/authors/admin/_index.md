@@ -43,24 +43,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: university
-  icon_pack: fas
-  link: http://www.cityu.edu.hk/stfprofile/xinhesean.htm
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:xin.he@my.cityu.edu.hk".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xinhe97
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xinhesean/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xinhe97
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2275-5215
+- icon: university
+  icon_pack: fas
+  link: http://www.cityu.edu.hk/stfprofile/xinhesean.htm
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:xin.he@my.cityu.edu.hk".
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Xin_He100
@@ -79,4 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Sean is a PhD candidate at College of Business, City University of Hong Kong. Sean has been working on FinTech and Financial Economics, with new methods from Machine Learning, Econometrics, and Data Science.
+Sean is a PhD candidate at College of Business, City University of Hong Kong.
+Sean has been working on Financial Economics and FinTech, with quantitative methods from Machine Learning, Econometrics, and Data Science.
+All the working papers are available via [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233).

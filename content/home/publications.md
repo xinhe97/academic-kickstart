@@ -73,15 +73,16 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ### Publication: -->
 
 ### Working Paper:
-  - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
-    - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm)
-  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
-    - Presented at [2021 SoFiE Summer School at NYU Shanghai](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), [China Finance Annual Meeting](http://www.cfam.top/upcoming/), Fudan University, University of Gothenburg, CEC Beijing, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [CIRF2021](https://cirforum.org/cirf2021/forum.php)
   - [Asset Pricing with Panel Trees Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin Will Cong, Guanhao Feng, Jingyu He (Oct 2021)
     - Presented at Shanghai Jiao Tong University, Shanghai University of Finance and Economics, HKAIFT-Columbia joint seminar, [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065)
+  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
+    - Presented at [2021 SoFiE Summer School at NYU Shanghai](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), [China Finance Annual Meeting](http://www.cfam.top/upcoming/), Fudan University, University of Gothenburg, CEC Beijing, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [CIRF2021](https://cirforum.org/cirf2021/forum.php)
+  - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
+    - Presented at CEC Fujian, [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm)
+
 
 <!-- ### Work in Progress: -->
 <!--   - Factor Pricing Using Interpretable and Arbitrage-Free Trees -->
