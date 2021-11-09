@@ -81,4 +81,5 @@ user_groups:
 
 Sean is a PhD candidate at College of Business, City University of Hong Kong.
 Sean has been working on Financial Economics and FinTech, with quantitative methods from Machine Learning, Econometrics, and Data Science.
+
 All the working papers are available via [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233).
