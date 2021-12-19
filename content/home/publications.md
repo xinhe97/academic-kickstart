@@ -85,6 +85,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 
 <!-- ### Work in Progress: -->
+<!-- - Portfolio Management with Panel Tress -->
+  
 <!--   - Factor Pricing Using Interpretable and Arbitrage-Free Trees -->
 <!--   - Earnings Nowcast and Earnings Surprise -->
 
