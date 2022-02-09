@@ -74,9 +74,10 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ###  Open Source Codes:
 
+- [P-Tree (Panel Tree)](https://github.com/CityUHK-FinTech/TreeFactor)
 - Equity characteristics and returns
   - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
-  - [SAS](https://github.com/Feng-CityUHK/)
+  - [SAS](https://github.com/Feng-CityUHK/EquityCharacteristicsSAS)
 - [Sorted Portfolio](https://github.com/xinhe97/SortCS)
 
 ### In Progress:
