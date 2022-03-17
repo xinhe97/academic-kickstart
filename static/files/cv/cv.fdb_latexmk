@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1638448086 "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.tex" "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.pdf" "cv" 1638448093
+["pdflatex"] 1647486419 "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.tex" "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.pdf" "cv" 1647486420
   "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.aux" 1638448068 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.tex" 1638448091 8998 bec9d752fa2aaf1dfccd9d1e1d7fae50 ""
+  "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.tex" 1647486418 9379 d65c2a60f76b8aaf80ca191d6e490df0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -36,10 +36,10 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1539569666 4220281 e4de1725e2a4b6b88cc7d6a103b617f3 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "cv.aux" 1638448068 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv.tex" 1638448091 8998 bec9d752fa2aaf1dfccd9d1e1d7fae50 ""
+  "cv.tex" 1647486418 9379 d65c2a60f76b8aaf80ca191d6e490df0 ""
   "res.cls" 1572288240 26968 f8cf96ef2831067f0ba534adb1a580cf ""
   (generated)
-  "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.pdf"
-  "cv.pdf"
   "cv.log"
+  "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.pdf"
   "/Users/phd/Documents/GitHub/academic-kickstart/static/files/cv/cv.log"
+  "cv.pdf"

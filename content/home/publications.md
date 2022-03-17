@@ -59,7 +59,7 @@ subtitle = ""
   # text_color_light = true  
 
 [advanced]
- # Custom CSS.
+ # Custom CSS.s
  css_style = ""
 
  # CSS class.
@@ -74,8 +74,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Asset Pricing with Panel Trees Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin Will Cong, Guanhao Feng, Jingyu He (Oct 2021)
-    - Presented at Shanghai Jiao Tong University, Shanghai University of Finance and Economics, HKAIFT-Columbia joint seminar, [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065)
+    - with Lin Will Cong, Guanhao Feng, Jingyu He (Mar 2022)
+    - Scheduled for presentation at WFA2022
+    - Presented at [GSU-RFS](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065), HKAIFT-Columbia joint seminar
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
     - Presented at [2021 SoFiE Summer School at NYU Shanghai](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), [China Finance Annual Meeting](http://www.cfam.top/upcoming/), Fudan University, University of Gothenburg, CEC Beijing, [FMCG2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), [AFFI2021](https://affi2021.eventsadmin.com/Home/Welcome), [CIRF2021](https://cirforum.org/cirf2021/forum.php)
