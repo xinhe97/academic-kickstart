@@ -74,7 +74,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Asset Pricing with Panel Trees Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin Will Cong, Guanhao Feng, Jingyu He (Mar 2022)
+    - with Lin William Cong, Guanhao Feng, Jingyu He (Mar 2022)
     - Scheduled for presentation at [2022 China Fintech Research Conference](https://conference.51xueshuo.com/#/index/M1478929126508597248), [WFA 2022](https://westernfinance.org/conference/), [AMES China 2022](https://ames2022.koushare.com/#/pcIndex)
     - Presented at [2022 GSU-RFS Fintech Conference](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065), HKAIFT-Columbia joint seminar
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
