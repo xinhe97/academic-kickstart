@@ -32,7 +32,7 @@ education:
   - course: Ph.D in Statistics and Finance
     institution: City University of Hong Kong
     year: 2022
-  - course: BSc in Industrial Engineering and Management
+  - course: BSc in Industrial Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
 
