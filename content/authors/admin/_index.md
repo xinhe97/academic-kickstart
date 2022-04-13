@@ -26,9 +26,6 @@ interests:
 - Machine Learning in Finance
 - FinTech
 - Empirical Asset pricing
-- Quantitative Finance
-- Data Science
-- Financial Econometrics
 
 education:
   courses:
