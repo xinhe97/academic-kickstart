@@ -73,13 +73,13 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ### Publication: -->
 
 ### Working Paper:
-  - [Asset Pricing with Panel Trees Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
+  - [Asset Pricing with Panel Tree Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He (Mar 2022)
     - Scheduled for presentation at 
     [WFA 2022](https://westernfinance.org/conference/), 
-    [CFTRC 2022](https://conference.51xueshuo.com/#/index/M1478929126508597248), 
     [AMES China 2022](https://ames2022.koushare.com/#/pcIndex), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
+    [CFTRC 2022](https://conference.51xueshuo.com/#/index/M1478929126508597248), 
     [Sixth PKU-NUS Annual International Conference on Quantitative Finance and Economics](https://rmi.nus.edu.sg/events/sixth-pku-nus-may-2022/)
     - Presented at 
     [2022 GSU-RFS Fintech Conference](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
