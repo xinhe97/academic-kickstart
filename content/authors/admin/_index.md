@@ -78,7 +78,7 @@ user_groups:
 ---
 
 Sean is a PhD candidate at College of Business, City University of Hong Kong.
-Sean has been working on Financial Economics and FinTech, with a focus on quantitative methods such as Machine Learning, Econometrics, and Data Science.
-He has been invited to present at major academic conferences, including FMA Annual Meeting and INFORMS Annual Meeting.
+He will join College of Finance and Statistics at Hunan University as assistant professor of finance in fall 2022.
+His research interest is Machine Learning in Finance, at the intersection of Empirical Asset Pricing, Machine Learning, Financial Econometrics, Data Science, and FinTech.
 
 All the working papers are available via [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233).

@@ -79,11 +79,12 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     [WFA 2022](https://westernfinance.org/conference/), 
     [AMES China 2022](https://ames2022.koushare.com/#/pcIndex), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
-    [CFTRC 2022](https://conference.51xueshuo.com/#/index/M1478929126508597248), 
     [Sixth PKU-NUS Annual International Conference on Quantitative Finance and Economics](https://rmi.nus.edu.sg/events/sixth-pku-nus-may-2022/)
     - Presented at 
     [2022 GSU-RFS Fintech Conference](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
-    [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065), HKAIFT-Columbia joint seminar
+    [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065), 
+    [CFTRC 2022](https://conference.51xueshuo.com/#/index/M1478929126508597248), 
+    HKAIFT-Columbia joint seminar
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
     - Presented at 
