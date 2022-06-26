@@ -74,19 +74,14 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Asset Pricing with Panel Tree Under Global Split Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin William Cong, Guanhao Feng, Jingyu He (Mar 2022)
-    - Scheduled for presentation at 
+    - with Lin William Cong, Guanhao Feng, Jingyu He (April 2022)
+    - Presentation at 
     [WFA 2022](https://westernfinance.org/conference/), 
-    [AMES China 2022](https://ames2022.koushare.com/#/pcIndex), 
+    [GSU-RFS Fintech Conference 2022](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/)
-    - Presented at 
-    [2022 GSU-RFS Fintech Conference](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
-    [INFORMS Annual Meeting 2021](https://www.abstractsonline.com/pp8/#!/10390/presentation/9065), 
-    [CFTRC 2022](https://conference.51xueshuo.com/#/index/M1478929126508597248), 
-    HKAIFT-Columbia joint seminar
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2021)
-    - Presented at 
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2022)
+    - Presentation at 
     [SoFiE Summer School at NYU Shanghai 2021](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), 
     [China Finance Annual Meeting 2021](http://www.cfam.top/upcoming/), 
     Fudan University, 
