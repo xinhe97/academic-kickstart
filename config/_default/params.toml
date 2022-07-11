@@ -86,19 +86,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "xin.he@my.cityu.edu.hk"
+email = "xinh@hnu.edu.cn"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "83th, Tat Chee Avenue", city = "Kowloon Tong", region = "Hong Kong, China", postcode = "", country = "China", country_code = "CN"}
+address = {street = "109th Shijiachong Road, Yuelu District", city = "Changsha, Hunan", region = "China", postcode = "410006", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "22.337153", longitude = "114.172785"}
 
 # Directions for visitors to locate you.
-directions = "Floor 7, Lau Ming Wai Academic Building"
+directions = "208 Room, No. 3 Red Building, North Campus, Hunan University"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
