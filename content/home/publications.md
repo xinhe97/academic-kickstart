@@ -79,6 +79,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     [WFA 2022](https://westernfinance.org/conference/), 
     [GSU-RFS Fintech Conference 2022](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/)
+    - 2022 INQUIRE Europe Research Grant Award
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2022)
     - Presentation at 
