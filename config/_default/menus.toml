@@ -8,15 +8,15 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "CV"
-  url = "files/cv/cv.pdf"
-  weight = 20
+# [[main]]
+#   name = "CV"
+#   url = "files/cv/cv.pdf"
+#   weight = 20
 
-[[main]]
-  name = "中文简历"
-  url = "files/cv/cv-chinese.pdf"
-  weight = 30
+# [[main]]
+#   name = "中文简历"
+#   url = "files/cv/cv-chinese.pdf"
+#   weight = 30
 
 [[main]]
   name = "Research"
