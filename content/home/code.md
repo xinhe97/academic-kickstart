@@ -74,7 +74,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ###  Open Source Codes: -->
 
-- [Panel Tree)](https://github.com/CityUHK-FinTech/TreeFactor)
+- [Panel Tree](https://github.com/CityUHK-FinTech/TreeFactor)
 - Equity characteristics and returns
   - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
   - [SAS](https://github.com/Feng-CityUHK/EquityCharacteristicsSAS)
