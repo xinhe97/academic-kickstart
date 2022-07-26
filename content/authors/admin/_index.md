@@ -18,13 +18,13 @@ organizations:
   url: "http://jt.hnu.edu.cn"
 - name: Hunan University
   url: "https://www.hnu.edu.cn"
-- name: 中文简历
-  url: "files/cv/cv-chinese.pdf"
-- name: Curriculum Vitae
-  url: "files/cv/cv.pdf"
-- name: SSRN
-  url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
-  
+# - name: 中文简历
+#   url: "files/cv/cv-chinese.pdf"
+# - name: Curriculum Vitae
+#   url: "files/cv/cv.pdf"
+# - name: SSRN
+#   url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
 

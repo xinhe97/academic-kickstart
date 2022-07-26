@@ -1,22 +1,12 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+Navigation Links
+  To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+    desired widget in your `content/home/` folder.
+  The weight parameter defines the order that the links will appear in.
 
 [[main]]
   name = "Home"
   url = "#about"
   weight = 10
-
-# [[main]]
-#   name = "CV"
-#   url = "files/cv/cv.pdf"
-#   weight = 20
-
-# [[main]]
-#   name = "中文简历"
-#   url = "files/cv/cv-chinese.pdf"
-#   weight = 30
 
 [[main]]
   name = "Research"
@@ -42,3 +32,18 @@
   name = "Contact"
   url = "#contact"
   weight = 80
+
+[[main]]
+  name = "Curriculum Vitae"
+  url = "files/cv/cv.pdf"
+  weight = 120
+
+[[main]]
+  name = "中文简历"
+  url = "files/cv/cv-chinese.pdf"
+  weight = 130
+
+[[main]]
+  name = "SSRN"
+  url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
+  weight = 140
