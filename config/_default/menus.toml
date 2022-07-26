@@ -8,15 +8,15 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#   name = "CV"
-#   url = "files/cv/cv.pdf"
-#   weight = 20
+[[main]]
+  name = "CV"
+  url = "files/cv/cv.pdf"
+  weight = 20
 
-# [[main]]
-#   name = "中文简历"
-#   url = "files/cv/cv-chinese.pdf"
-#   weight = 30
+[[main]]
+  name = "中文简历"
+  url = "files/cv/cv-chinese.pdf"
+  weight = 30
 
 [[main]]
   name = "Research"
@@ -42,21 +42,3 @@
   name = "Contact"
   url = "#contact"
   weight = 80
-<<<<<<< HEAD
-=======
-
-[[main]]
-  name = "Curriculum Vitae"
-  url = "files/cv/cv.pdf"
-  weight = 120
-
-[[main]]
-  name = "中文简历"
-  url = "files/cv/cv-chinese.pdf"
-  weight = 130
-
-[[main]]
-  name = "SSRN"
-  url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
-  weight = 140
->>>>>>> parent of 866e000 (d)
