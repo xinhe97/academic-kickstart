@@ -31,19 +31,19 @@ Navigation Links
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 60
 
 [[main]]
   name = "Curriculum Vitae"
   url = "files/cv/cv.pdf"
-  weight = 120
+  weight = 70
 
 [[main]]
   name = "中文简历"
   url = "files/cv/cv-chinese.pdf"
-  weight = 130
+  weight = 80
 
 [[main]]
   name = "SSRN"
   url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
-  weight = 140
+  weight = 90
