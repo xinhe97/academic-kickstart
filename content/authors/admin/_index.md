@@ -18,7 +18,6 @@ organizations:
   url: "http://jt.hnu.edu.cn"
 - name: Hunan University
   url: "https://www.hnu.edu.cn"
-  
 # - name: 中文简历
 #   url: "files/cv/cv-chinese.pdf"
 # - name: Curriculum Vitae
