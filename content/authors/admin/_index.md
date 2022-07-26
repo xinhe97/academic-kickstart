@@ -82,4 +82,4 @@ user_groups:
 Sean is an assistant professor of finance at College of Finance and Statistics, Hunan University.
 His research interest is Machine Learning in Finance, at the intersection of Empirical Asset Pricing, Machine Learning, Financial Econometrics, Data Science, and FinTech.
 
-[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [Official Webpage](http://jt.hnu.edu.cn/info/1167/7011.htm) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
