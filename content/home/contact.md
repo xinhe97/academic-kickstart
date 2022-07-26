@@ -17,4 +17,4 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [学校网页](http://jt.hnu.edu.cn/info/1167/7011.htm) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)

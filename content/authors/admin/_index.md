@@ -79,5 +79,5 @@ user_groups:
 - Visitors
 ---
 
-Sean is an assistant professor of finance at College of Finance and Statistics, Hunan University.
-His research interest is Machine Learning in Finance, at the intersection of Empirical Asset Pricing, Machine Learning, Financial Econometrics, Data Science, and FinTech.
+Sean is an Assistant Professor of Finance at College of Finance and Statistics, Hunan University.
+His research interest is Machine Learning in Finance, at the intersection of Empirical Asset Pricing, Quantitative Investment, Machine Learning, Financial Econometrics, Data Science, and FinTech.
