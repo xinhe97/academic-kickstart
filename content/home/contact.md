@@ -17,4 +17,4 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [学校网页](http://jt.hnu.edu.cn/info/1167/7011.htm) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+[中文简历](files/cv/cv-chinese.pdf) - [Curriculum Vitae](files/cv/cv.pdf) - [学校网页](http://jt.hnu.edu.cn/info/1167/7011.htm) - [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233) - [Google Scholar](https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2) - [Github](https://github.com/xinhe97) - [ORCID](https://orcid.org/0000-0002-2275-5215) - [LinkedIn](https://www.linkedin.com/in/xinhesean/)
