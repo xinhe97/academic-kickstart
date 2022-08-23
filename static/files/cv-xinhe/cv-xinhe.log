@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  23 AUG 2022 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  24 AUG 2022 00:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1127,13 +1127,13 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 57--75
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 93.
+put line 94.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 93.
+(Font)              scaled to size 10.51207pt on input line 94.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,52 +1141,52 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 86--110
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 87--111
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 116--146
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 117--147
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 151--159
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 152--160
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 165--187
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 166--188
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 193--210
-[] 
- []
-
-
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 215--245
-[] 
- []
-
-[2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 254--279
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 194--211
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 286.
+(Font)              scaled to size 7.68005pt on input line 217.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 285--290
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 216--221
+[] 
+ []
+
+
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 227--257
+[] 
+ []
+
+[2]
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 263--288
 [] 
  []
 
 [3] (./cv-xinhe.aux)
 Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
-(rerunfilecheck)             Checksum: 526E39A29C4983053EEE88513D23C35E;1041.
+(rerunfilecheck)             Checksum: 11B0C46F822093330CD56CA35A2EE2EB;1076.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 \openout1 = `cv-xinhe.run.xml'.
 
@@ -1194,7 +1194,7 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 Here is how much of TeX's memory you used:
  22938 strings out of 478994
  400860 string characters out of 5858185
- 1145760 words of memory out of 5000000
+ 1146760 words of memory out of 5000000
  40050 multiletter control sequences out of 15000+600000
  461842 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1211,7 +1211,7 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (3 pages, 199308 bytes).
+Output written on cv-xinhe.pdf (3 pages, 199335 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
