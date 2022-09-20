@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  16 JUL 2022 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  21 SEP 2022 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,29 +364,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--200
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (2.5859pt too wide) in paragraph at lines 231--235
+Overfull \hbox (2.5859pt too wide) in paragraph at lines 231--236
 \OT1/cmr/m/n/10 China In-ter-na-tional Risk Fo-rum, Dong-bei Uni-ver-sity of Fi
 -nance and Eco-nomics (2022/7,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--235
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
 
  []
 
 
-Overfull \hbox (0.62747pt too wide) in paragraph at lines 236--249
+Overfull \hbox (0.62747pt too wide) in paragraph at lines 237--250
 \OT1/cmr/m/n/10 Financial Mar-kets and Cor-po-rate Gov-er-nance Con-fer-ence, L
 a Trobe Uni-ver-sity (2021/4,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--249
+Underfull \hbox (badness 10000) in paragraph at lines 237--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--262
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
 
  []
 
@@ -398,7 +398,7 @@ Here is how much of TeX's memory you used:
  26565 multiletter control sequences out of 15000+600000
  405158 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,88p,1015b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,8n,88p,1015b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
 x10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc
@@ -406,7 +406,7 @@ x10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 .pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on cv.pdf (3 pages, 94202 bytes).
+Output written on cv.pdf (3 pages, 94315 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
