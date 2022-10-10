@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  22 SEP 2022 19:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  10 OCT 2022 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1175,33 +1175,27 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 219--224
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 230--262
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 230--263
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 268--293
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 269--294
 [] 
  []
 
 [3] (./cv-xinhe.aux)
-
-Package rerunfilecheck Warning: File `cv-xinhe.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv-xinhe.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  11B0C46F822093330CD56CA35A2EE2EB;1076.
+Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
+(rerunfilecheck)             Checksum: 11B0C46F822093330CD56CA35A2EE2EB;1076.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 \openout1 = `cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22923 strings out of 478994
- 400651 string characters out of 5858185
- 1146758 words of memory out of 5000000
- 40038 multiletter control sequences out of 15000+600000
+ 22935 strings out of 478994
+ 400776 string characters out of 5858185
+ 1146757 words of memory out of 5000000
+ 40050 multiletter control sequences out of 15000+600000
  461496 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,89p,988b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1217,10 +1211,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (3 pages, 198042 bytes).
+Output written on cv-xinhe.pdf (3 pages, 198689 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
- 32257 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32345 words of extra memory for PDF output out of 35830 (max. 10000000)
 
