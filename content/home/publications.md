@@ -77,7 +77,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Lin William Cong, Guanhao Feng, Jingyu He (April 2022)
     - Presentation at 
     [Western Finance Association 2022](https://westernfinance.org/conference/), 
-    [North Finance Association 2022](https://northernfinanceassociation.org), 
+    [Northern Finance Association 2022](https://northernfinanceassociation.org), 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
     [GSU-RFS Fintech Conference 2022](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
