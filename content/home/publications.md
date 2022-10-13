@@ -86,6 +86,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2022)
     - Presentation at 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
+    [New Zealand Finance Meeting 2022](https://acfr.aut.ac.nz/conferences-and-events/2022-new-zealand-finance-meeting),
     [SoFiE Summer School at NYU Shanghai 2021](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), 
     [China Finance Annual Meeting 2021](http://www.cfam.top/upcoming/), 
     Fudan University, 
