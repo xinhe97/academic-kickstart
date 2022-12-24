@@ -75,9 +75,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ###  Open Source Codes: -->
 
 - [Panel Tree](https://github.com/Quantactix/TreeFactor)
-- Equity characteristics and returns
+- Equity characteristics and returns (US Market)
   - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
   - [SAS](https://github.com/Feng-CityUHK/EquityCharacteristicsSAS)
+- Equity characteristics and returns (China A-Share Market)
+  - [Python](https://github.com/Quantactix/ChinaAShareEquityCharacteristics)
 - [Sorted Portfolio](https://github.com/xinhe97/SortCS)
 - [Basis Asset](https://github.com/Feng-CityUHK/basis_asset)
 
