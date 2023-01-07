@@ -43,7 +43,8 @@ education:
 social:
 - icon: university
   icon_pack: fas
-  link: http://jt.hnu.edu.cn/info/1167/7011.htm
+  link: https://grzy.hnu.edu.cn/site/index/hexin
+  # link: http://jt.hnu.edu.cn/info/1167/7011.htm
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
