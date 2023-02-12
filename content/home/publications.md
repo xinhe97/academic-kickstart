@@ -96,7 +96,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
     [CIRF 2021](https://cirforum.org/cirf2021/forum.php)
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (October 2022)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (January 2023)
     - Presented at 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
     [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
