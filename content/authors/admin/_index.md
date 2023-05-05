@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D in Statistics and Finance
+  - course: Ph.D in Management Sciences
     institution: City University of Hong Kong
     year: 2022
   - course: BSc in Industrial Engineering
