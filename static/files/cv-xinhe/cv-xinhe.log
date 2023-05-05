@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  11 APR 2023 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  5 MAY 2023 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1127,13 +1127,13 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 57--75
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 94.
+put line 103.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 94.
+(Font)              scaled to size 10.51207pt on input line 103.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,80 +1141,89 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 87--111
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--121
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 117--147
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 127--157
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 152--160
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 162--170
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 166--188
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 176--198
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 194--214
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 204--224
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 220.
+(Font)              scaled to size 7.68005pt on input line 230.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 219--224
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 229--234
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 230--271
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 240--281
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 277--305
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 287--315
 [] 
  []
 
 [3] (./cv-xinhe.aux)
-Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
-(rerunfilecheck)             Checksum: 11B0C46F822093330CD56CA35A2EE2EB;1076.
+
+Package rerunfilecheck Warning: File `cv-xinhe.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv-xinhe.out':
+(rerunfilecheck)             Before: B0814546D57F463B4DB4D9E296B1A79B;1176
+(rerunfilecheck)             After:  11B0C46F822093330CD56CA35A2EE2EB;1076.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 \openout1 = `cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22925 strings out of 478994
- 400495 string characters out of 5858185
+ 22927 strings out of 478994
+ 400517 string characters out of 5858185
  1147760 words of memory out of 5000000
- 40050 multiletter control sequences out of 15000+600000
+ 40051 multiletter control sequences out of 15000+600000
  460351 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,89p,988b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_x6jczy.enc}{/
-usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/u
-sr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/
-usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
-ands-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawe
-some5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
-pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
-mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
-texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
-2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (3 pages, 198996 bytes).
+pdfTeX warning (dest): name{section.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}{/
+usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_x6jczy.enc}{/us
+r/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr
+/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/us
+r/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Bran
+ds-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontaweso
+me5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
+1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
+Output written on cv-xinhe.pdf (3 pages, 199249 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 32345 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 32353 words of extra memory for PDF output out of 35830 (max. 10000000)
 
