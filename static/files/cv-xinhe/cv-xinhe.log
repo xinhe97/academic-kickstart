@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  20 SEP 2023 00:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  25 SEP 2023 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,42 +1148,42 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 98--139
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 158--213
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 145--200
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 218--227
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 205--214
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 233--264
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 220--251
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 270--290
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 257--277
 [] 
  []
 
 [2]
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 296.
+(Font)              scaled to size 7.68005pt on input line 283.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 295--300
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 282--287
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 306--349
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 293--336
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 355--390
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 342--377
 [] 
  []
 
@@ -1214,7 +1214,7 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (4 pages, 202540 bytes).
+Output written on cv-xinhe.pdf (4 pages, 202532 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
