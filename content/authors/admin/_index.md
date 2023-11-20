@@ -72,7 +72,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "xin.he@my.cityu.edu.hk"
-email: "xinh@hnu.edu.cn"
+# email: "xinh@hnu.edu.cn"
+email: "xinhe9701@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
