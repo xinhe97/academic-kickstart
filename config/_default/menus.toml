@@ -47,3 +47,8 @@
   name = "SSRN"
   url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233"
   weight = 83
+
+[[main]]
+  name = "MLFINA"
+  url = "https://github.com/mlfina"
+  weight = 84
