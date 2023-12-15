@@ -74,14 +74,19 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ###  Open Source Codes: -->
 
-- [Panel Tree](https://github.com/Quantactix/TreeFactor)
-- Equity characteristics and returns (US Market)
-  - [Python](https://github.com/Feng-CityUHK/EquityCharacteristics)
-  - [SAS](https://github.com/Feng-CityUHK/EquityCharacteristicsSAS)
-- Equity characteristics and returns (China A-Share Market)
-  - [Python](https://github.com/Quantactix/ChinaAShareEquityCharacteristics)
-- [Sorted Portfolio](https://github.com/xinhe97/SortCS)
-- [Basis Asset](https://github.com/Feng-CityUHK/basis_asset)
+### Panel Tree
+  - [Panel Tree](https://github.com/Quantactix/TreeFactor)
+
+### China A-Share Market
+  - [Factors and Sorted Portfolios](https://github.com/mlfina/China-A-Sort) *python*
+  - [Equity characteristics and returns](https://github.com/Quantactix/ChinaAShareEquityCharacteristics) *python*
+
+### US Market
+  - [Equity characteristics and returns](https://github.com/Feng-CityUHK/EquityCharacteristics) *python*
+  - [Equity characteristics and returns](https://github.com/Feng-CityUHK/EquityCharacteristicsSAS) *sas*
+
+### Sorted Portfolio 
+  - [Sorted Portfolio](https://github.com/xinhe97/SortCS) *python*
 
 <!-- ### In Progress: -->
 
