@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  15 DEC 2023 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  16 DEC 2023 00:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1100,40 +1100,40 @@ nput line 22.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 25.
+ input line 26.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 25.
+n input line 26.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 37.
+(Font)              scaled to size 11.52008pt on input line 38.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 37.
+(Font)              scaled to size 11.52008pt on input line 38.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 10.51207pt on input line 45.
+(Font)              scaled to size 10.51207pt on input line 46.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 45.
+(Font)              scaled to size 10.51207pt on input line 46.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 39--48
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 40--49
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 57--75
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 58--76
 [] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 105.
+put line 106.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 105.
+(Font)              scaled to size 10.51207pt on input line 106.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,48 +1141,48 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 111.
+(Font)              scaled to size 9.60007pt on input line 112.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 98--135
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 99--136
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 141--208
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 142--209
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 213--222
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 214--223
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 228--259
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 229--260
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 265--285
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 266--286
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 291.
+(Font)              scaled to size 7.68005pt on input line 292.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 290--295
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 291--296
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 301--344
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 302--345
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 350--385
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 351--386
 [] 
  []
 
@@ -1213,10 +1213,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (4 pages, 202982 bytes).
+Output written on cv-xinhe.pdf (4 pages, 202943 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 118 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  16 named destinations out of 1000 (max. 500000)
  36441 words of extra memory for PDF output out of 42996 (max. 10000000)
 
