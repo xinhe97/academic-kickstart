@@ -74,6 +74,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ###  Open Source Codes: -->
 
+I own the Github team [MLFINA](https://github.com/mlfina). I am also a member of [Quantactix](https://github.com/Quantactix)
+
 ### Panel Tree
   - [Panel Tree](https://github.com/Quantactix/TreeFactor) *C++, R*
 
