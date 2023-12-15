@@ -103,7 +103,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
     [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm)
 
-
 <!-- ### Work in Progress: -->
 <!-- - Portfolio Management with Panel Tress -->
   
