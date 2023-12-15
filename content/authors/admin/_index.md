@@ -51,8 +51,8 @@ social:
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
 - icon: github
   icon_pack: fab
-  # link: https://github.com/xinhe97
-  link: https://github.com/mlfina
+  link: https://github.com/xinhe97
+  # link: https://github.com/mlfina
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2275-5215
