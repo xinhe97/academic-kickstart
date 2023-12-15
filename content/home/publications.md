@@ -75,17 +75,17 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Working Paper:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He (November 2023)
-    - Presentation at 
+    <!-- - Presentation at 
     [Western Finance Association 2022](https://westernfinance.org/conference/), 
     [Northern Finance Association 2022](https://northernfinanceassociation.org), 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
     [GSU-RFS Fintech Conference 2022](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
-    [UFlorida Machine Learning in Finance 2022](https://warrington.ufl.edu/finance-insurance-and-real-estate-department/uf-research-conference-on-machine-learning-in-finance/)
+    [UFlorida Machine Learning in Finance 2022](https://warrington.ufl.edu/finance-insurance-and-real-estate-department/uf-research-conference-on-machine-learning-in-finance/) -->
     - 2022 INQUIRE Europe Research Grant Award
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (December 2022)
-    - Presentation at 
+    <!-- - Presentation at 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
     [New Zealand Finance Meeting 2022](https://acfr.aut.ac.nz/conferences-and-events/2022-new-zealand-finance-meeting),
     [SoFiE Summer School at NYU Shanghai 2021](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), 
@@ -94,14 +94,14 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     University of Gothenburg, 
     [FMCG 2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), 
     [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
-    [CIRF 2021](https://cirforum.org/cirf2021/forum.php)
+    [CIRF 2021](https://cirforum.org/cirf2021/forum.php) -->
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (January 2023)
     - R&R, Journal of Banking and Finance
-    - Presented at 
+    <!-- - Presented at 
     [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
     [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
-    [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm)
+    [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm) -->
 
 <!-- ### Work in Progress: -->
 <!-- - Portfolio Management with Panel Tress -->
