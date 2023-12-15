@@ -75,7 +75,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ###  Open Source Codes: -->
 
 ### Panel Tree
-  - [Panel Tree](https://github.com/Quantactix/TreeFactor)
+  - [Panel Tree](https://github.com/Quantactix/TreeFactor) *C++, R*
 
 ### China A-Share Market
   - [Factors and Sorted Portfolios](https://github.com/mlfina/China-A-Sort) *python*
