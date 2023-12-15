@@ -80,8 +80,11 @@ I own the Github team [MLFINA](https://github.com/mlfina). I also contribute to 
   - [Panel Tree](https://github.com/Quantactix/TreeFactor) *C++, R*
 
 ### China A-Share Market
-  - [Factors and Sorted Portfolios](https://github.com/mlfina/China-A-Sort) *python*
   - [Equity characteristics and returns](https://github.com/Quantactix/ChinaAShareEquityCharacteristics) *python*
+  - [Factors and Sorted Portfolios](https://github.com/mlfina/China-A-Sort) *python*
+    - Download Data
+      1. Value-Weighted: [univariate-sorted long-short factor](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/unifactor_returns.csv), univariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/unisort_returns.csv), [bivariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/bisort_returns.csv)
+      2. Equal-Weighted Sorted Portfolios: [univariate-sorted long-short factor](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/unifactor_returns.csv), [univariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/unisort_returns.csv), [bivariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/bisort_returns.csv)
 
 ### US Market
   - [Equity characteristics and returns](https://github.com/Feng-CityUHK/EquityCharacteristics) *python*
