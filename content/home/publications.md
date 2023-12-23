@@ -75,6 +75,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Working Paper:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He (November 2023)
+    - R&R, Journal of Financial Economics
     <!-- - Presentation at 
     [Western Finance Association 2022](https://westernfinance.org/conference/), 
     [Northern Finance Association 2022](https://northernfinanceassociation.org), 

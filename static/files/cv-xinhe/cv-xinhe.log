@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  16 DEC 2023 00:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  23 DEC 2023 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1127,13 +1127,13 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 58--76
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 106.
+put line 107.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 106.
+(Font)              scaled to size 10.51207pt on input line 107.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,63 +1141,69 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 112.
+(Font)              scaled to size 9.60007pt on input line 113.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 99--136
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 99--137
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 142--209
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 143--210
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 214--223
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 215--224
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 229--260
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 230--261
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 266--286
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 267--287
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 292.
+(Font)              scaled to size 7.68005pt on input line 293.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 291--296
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 292--297
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 302--345
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 303--346
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 351--386
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 352--387
 [] 
  []
 
 [4] (./cv-xinhe.aux)
-Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
-(rerunfilecheck)             Checksum: 705ED4060A9DFE3CA72607FCEB913CF2;1028.
+
+Package rerunfilecheck Warning: File `cv-xinhe.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv-xinhe.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  705ED4060A9DFE3CA72607FCEB913CF2;1028.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 \openout1 = `cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22941 strings out of 478994
- 400927 string characters out of 5858185
- 1147760 words of memory out of 5000000
- 40052 multiletter control sequences out of 15000+600000
+ 22929 strings out of 478994
+ 400802 string characters out of 5858185
+ 1147758 words of memory out of 5000000
+ 40040 multiletter control sequences out of 15000+600000
  468041 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,89p,988b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1213,10 +1219,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (4 pages, 202943 bytes).
+Output written on cv-xinhe.pdf (4 pages, 202143 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 83 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  16 named destinations out of 1000 (max. 500000)
- 36441 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 36353 words of extra memory for PDF output out of 42996 (max. 10000000)
 
