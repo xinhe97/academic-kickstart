@@ -85,4 +85,4 @@ user_groups:
 
 Xin He (Sean) is an Assistant Professor of Finance at College of Finance and Statistics, Hunan University.
 He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University.
-His research interest is Machine Learning in Finance, at the intersection of Machine Learning, Textual Analysis, Empirical Asset Pricing, Empirical Corporate Finance, Quantitative Investment, Financial Econometrics, Data Science, and FinTech.
+His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics.
