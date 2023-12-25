@@ -24,8 +24,8 @@ bio: My research interests include empirical asset pricing, financial econometri
 
 interests:
 - Machine Learning in Finance
-- Textual Analysis
 - Financial Technology
+- Textual Analysis
 - Quantitative Finance
 
 education:
