@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  26 DEC 2023 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  27 DEC 2023 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,56 +1084,56 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 19.
+(Font)              <10.95> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 40.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 20.
+nput line 41.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 22.
+nput line 43.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 26.
+ input line 47.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 26.
+n input line 47.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 38.
+(Font)              scaled to size 11.52008pt on input line 62.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 38.
+(Font)              scaled to size 11.52008pt on input line 62.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 10.51207pt on input line 46.
+(Font)              scaled to size 10.51207pt on input line 70.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 46.
+(Font)              scaled to size 10.51207pt on input line 70.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 40--49
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 64--73
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 58--76
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 82--100
 [] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 107.
+put line 131.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 107.
+(Font)              scaled to size 10.51207pt on input line 131.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,60 +1141,54 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 114.
+(Font)              scaled to size 9.60007pt on input line 138.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 99--140
-[] 
- []
-
-
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 146--213
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 123--164
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 218--227
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 209--273
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 233--264
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 278--287
+[] 
+ []
+
+
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 293--324
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 270--290
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 330--350
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 296.
+(Font)              scaled to size 7.68005pt on input line 356.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 295--300
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 355--360
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 345--388
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 367--410
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 394--429
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 416--451
 [] 
  []
 
 [4] (./cv-xinhe.aux)
-
-Package rerunfilecheck Warning: File `cv-xinhe.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv-xinhe.out':
-(rerunfilecheck)             Before: 36B205F15FF523DDF4C45ACA35E6DDA6;1123
-(rerunfilecheck)             After:  880C6DE0C0BD859932F6BEA76AD95477;1123.
+Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
+(rerunfilecheck)             Checksum: 37E74E19600BDE7C3650AACAF22DEC4F;1123.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 \openout1 = `cv-xinhe.run.xml'.
 
@@ -1202,7 +1196,7 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 Here is how much of TeX's memory you used:
  22943 strings out of 478994
  400949 string characters out of 5858185
- 1149760 words of memory out of 5000000
+ 1148766 words of memory out of 5000000
  40053 multiletter control sequences out of 15000+600000
  468041 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1219,7 +1213,7 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (4 pages, 203753 bytes).
+Output written on cv-xinhe.pdf (4 pages, 203825 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams

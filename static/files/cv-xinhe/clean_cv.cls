@@ -110,6 +110,6 @@
 \rule{\linewidth}{1pt}
 }
 
-\pagestyle{empty}
+%\pagestyle{empty}
 
 
