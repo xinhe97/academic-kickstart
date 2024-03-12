@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  14 JAN 2024 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  12 MAR 2024 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1177,16 +1177,16 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 360--365
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 372--415
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 372--422
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 421--456
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 428--463
 [] 
  []
 
-[4] (./cv-xinhe.aux)
+[4] [5] (./cv-xinhe.aux)
 Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
 (rerunfilecheck)             Checksum: 93E70DE8106F8EFE4DDC3215DB642F91;1118.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
@@ -1194,8 +1194,8 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22946 strings out of 478994
- 401028 string characters out of 5858185
+ 22947 strings out of 478994
+ 401034 string characters out of 5858185
  1148766 words of memory out of 5000000
  40053 multiletter control sequences out of 15000+600000
  468387 words of font info for 102 fonts, out of 8000000 for 9000
@@ -1213,10 +1213,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (4 pages, 204207 bytes).
+Output written on cv-xinhe.pdf (5 pages, 204493 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
  36449 words of extra memory for PDF output out of 42996 (max. 10000000)
 
