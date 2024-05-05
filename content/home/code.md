@@ -97,6 +97,9 @@ I own the Github team [MLFINA](https://github.com/mlfina). I also contribute to 
 ### Sorted Portfolio 
   - [Sorted Portfolio](https://github.com/xinhe97/SortCS) *python*
 
+### Machine Learning Dictionaries for Financial Textual Analysis
+  - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionaries/)
+
 <!-- ### In Progress: -->
 
 <!-- - [Basis Asset](https://github.com/Feng-CityUHK/basis_asset) -->
