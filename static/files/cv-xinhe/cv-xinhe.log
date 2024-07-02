@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  10 JUN 2024 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  2 JUL 2024 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,7 +1182,7 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 372--424
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 430--474
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 430--476
 [] 
  []
 
@@ -1196,7 +1196,7 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 Here is how much of TeX's memory you used:
  22944 strings out of 478994
  400953 string characters out of 5858185
- 1147766 words of memory out of 5000000
+ 1148766 words of memory out of 5000000
  40053 multiletter control sequences out of 15000+600000
  468041 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1213,7 +1213,7 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (5 pages, 205244 bytes).
+Output written on cv-xinhe.pdf (5 pages, 205457 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
