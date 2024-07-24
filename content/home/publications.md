@@ -84,6 +84,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
     [UFlorida Machine Learning in Finance 2022](https://warrington.ufl.edu/finance-insurance-and-real-estate-department/uf-research-conference-on-machine-learning-in-finance/) -->
     - 2022 INQUIRE Europe Research Grant Award
+    - 2024 IQAM Research Award
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (December 2022)
     <!-- - Presentation at 
