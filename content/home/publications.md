@@ -74,7 +74,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin William Cong, Guanhao Feng, Jingyu He (November 2023)
+    - with Lin William Cong, Guanhao Feng, Jingyu He (August 2024)
     - R&R, Journal of Financial Economics
     <!-- - Presentation at 
     [Western Finance Association 2022](https://westernfinance.org/conference/), 
@@ -87,33 +87,12 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - 2024 IQAM Research Award
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (December 2022)
-    <!-- - Presentation at 
-    [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
-    [New Zealand Finance Meeting 2022](https://acfr.aut.ac.nz/conferences-and-events/2022-new-zealand-finance-meeting),
-    [SoFiE Summer School at NYU Shanghai 2021](https://research.shanghai.nyu.edu/centers-and-institutes/vins/events/2021-sofie-financial-econometrics-summer-school), 
-    [China Finance Annual Meeting 2021](http://www.cfam.top/upcoming/), 
-    Fudan University, 
-    University of Gothenburg, 
-    [FMCG 2021](https://www.latrobe.edu.au/business/about/financial-markets-and-corporate-governance-conference), 
-    [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
-    [CIRF 2021](https://cirforum.org/cirf2021/forum.php) -->
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (January 2023)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2024)
     - R&R, Journal of Banking and Finance
-    <!-- - Presented at 
-    [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
-    [AFFI 2021](https://affi2021.eventsadmin.com/Home/Welcome), 
-    [FMA Annual Meeting 2021](https://www.fmaconferences.org/Denver/DenverProgramFULL.htm) -->
 
 <!-- ### Work in Progress: -->
-<!-- - Portfolio Management with Panel Tress -->
-  
-<!--   - Factor Pricing Using Interpretable and Arbitrage-Free Trees -->
-<!--   - Earnings Nowcast and Earnings Surprise -->
-
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
-
-<!-- - Time Series Efficient and Mean Variance Efficient Portfolio -->
 
 <!-- ### Pre-doctoral Publication:
   - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
