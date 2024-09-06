@@ -98,7 +98,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Sorted Portfolio](https://github.com/xinhe97/SortCS) *python*
 
 ### Machine Learning Dictionaries for Financial Textual Analysis
-  - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionaries/)
+  - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
 
 <!-- ### In Progress: -->
 

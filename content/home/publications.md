@@ -90,6 +90,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2024)
     - R&R, Journal of Banking and Finance
+  - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
+    - with Xinbo Chen, and Bowen Du (September 2024)
+
 
 <!-- ### Work in Progress: -->
 <!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
