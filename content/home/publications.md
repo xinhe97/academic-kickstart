@@ -92,6 +92,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - R&R, Journal of Banking and Finance
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen, and Bowen Du (September 2024)
+    - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
 
 
 <!-- ### Work in Progress: -->
