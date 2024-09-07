@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Finance
+role: Non-tenured Associate Professor of Finance
 
 # Organizations/Affiliations
 organizations:
