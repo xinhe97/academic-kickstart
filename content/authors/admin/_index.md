@@ -14,10 +14,10 @@ role: Assistant Professor of Finance
 
 # Organizations/Affiliations
 organizations:
-- name: College of Finance and Statistics
-  url: "http://jt.hnu.edu.cn"
-- name: Hunan University
-  url: "https://www.hnu.edu.cn"
+- name: School of Management
+  url: "https://som.ustc.edu.cn/main.htm"
+- name: University of Science and Technology of China
+  url: "https://www.ustc.edu.cn"
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
@@ -44,8 +44,7 @@ education:
 social:
 - icon: university
   icon_pack: fas
-  link: https://grzy.hnu.edu.cn/site/index/hexin
-  # link: http://jt.hnu.edu.cn/info/1167/7011.htm
+  link: https://bs.ustc.edu.cn/english/profile-2437.html
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
@@ -73,8 +72,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "xin.he@my.cityu.edu.hk"
-# email: "xinh@hnu.edu.cn"
-email: "xinhe9701@gmail.com"
+email: "xin.he@ustc.edu.cn"
+# email: "xinhe9701@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -83,6 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is an Assistant Professor of Finance at College of Finance and Statistics, Hunan University.
-He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University.
-His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics. Currently, he focuses on developing machine learning solutions for big data challenges in empirical asset pricing. 
+Xin He is a Non-tenured Associate Professor of Finance at School of management University of Science and Technology of China. He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University. His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics. Currently, he focuses on developing machine learning solutions for big data challenges in empirical asset pricing. 
