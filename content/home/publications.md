@@ -72,33 +72,19 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
+### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+
 ### Working Paper:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin William Cong, Guanhao Feng, Jingyu He (August 2024)
+    - with Lin William Cong, Guanhao Feng, Jingyu He (September 2024)
     - R&R, Journal of Financial Economics
-    <!-- - Presentation at 
-    [Western Finance Association 2022](https://westernfinance.org/conference/), 
-    [Northern Finance Association 2022](https://northernfinanceassociation.org), 
-    [Australasian Finance \& Banking Conference 2022](https://www.unsw.edu.au/business/our-schools/banking-finance/news-events/australasian-finance-banking-conference),
-    [GSU-RFS Fintech Conference 2022](https://robinson.gsu.edu/academic-departments/finance/georgia-state-fintech-conference/), 
-    [AsianFA 2022](https://www.polyu.edu.hk/af/news-and-events/event/2022/7/asianfa/),
-    [UFlorida Machine Learning in Finance 2022](https://warrington.ufl.edu/finance-insurance-and-real-estate-department/uf-research-conference-on-machine-learning-in-finance/) -->
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (December 2022)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2024)
     - R&R, Journal of Banking and Finance
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen, and Bowen Du (September 2024)
     - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
-
-
-<!-- ### Work in Progress: -->
-<!-- - Measuring Mutual Fund Performance with Characteristic-based Benchmarks: A Machine Learning Approach-->
-
-<!-- ### Pre-doctoral Publication:
-  - [An Image-Based Approach for Defect Detection on Decorative Sheets](https://link.springer.com/chapter/10.1007/978-3-030-04212-7_58)
-    - with Boyu Zhou, Zhongyi Zhou, Xinyi Le
-    - ICONIP 2018 (conference) -->
