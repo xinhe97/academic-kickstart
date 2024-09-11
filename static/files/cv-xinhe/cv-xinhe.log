@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  8 SEP 2024 00:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  11 SEP 2024 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1152,17 +1152,17 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 220--284
 [] 
  []
 
-
+[2]
 Overfull \hbox (8.48793pt too wide) in paragraph at lines 289--300
 [] 
  []
 
-[2]
+
 Overfull \hbox (8.48793pt too wide) in paragraph at lines 306--338
 [] 
  []
 
-
+[3]
 Overfull \hbox (8.48793pt too wide) in paragraph at lines 344--372
 [] 
  []
@@ -1174,17 +1174,17 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 377--382
 [] 
  []
 
-[3]
+
 Overfull \hbox (8.48793pt too wide) in paragraph at lines 389--441
 [] 
  []
 
-
+[4]
 Overfull \hbox (8.48793pt too wide) in paragraph at lines 447--490
 [] 
  []
 
-[4] [5] (./cv-xinhe.aux)
+[5] [6] (./cv-xinhe.aux)
 Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
 (rerunfilecheck)             Checksum: B9756AB81131C7E310893476497C7111;1218.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
@@ -1192,9 +1192,9 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22947 strings out of 478994
- 400971 string characters out of 5858185
- 1147766 words of memory out of 5000000
+ 22948 strings out of 478994
+ 400977 string characters out of 5858185
+ 1148766 words of memory out of 5000000
  40054 multiletter control sequences out of 15000+600000
  461842 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1211,10 +1211,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (5 pages, 205688 bytes).
+Output written on cv-xinhe.pdf (6 pages, 206222 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
  32361 words of extra memory for PDF output out of 35830 (max. 10000000)
 
