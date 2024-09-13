@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Non-tenured Associate Professor of Finance
+role: Tenure-Track Associate Professor of Finance
 
 # Organizations/Affiliations
 organizations:
@@ -83,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-Xin He is a Non-tenured Associate Professor of Finance at School of Management University of Science and Technology of China. He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University. His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics. Currently, he focuses on developing machine learning solutions for big data challenges in empirical asset pricing. 
+Xin He is a Tenure-Track Associate Professor of Finance at School of Management University of Science and Technology of China. He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University. His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics. Currently, he focuses on developing machine learning solutions for big data challenges in empirical asset pricing. 
