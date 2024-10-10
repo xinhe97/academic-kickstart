@@ -74,17 +74,19 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
-### Working Paper:
+### Selected Publication:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Lin William Cong, Guanhao Feng, Jingyu He (September 2024)
-    - R&R, Journal of Financial Economics
+    - with Lin William Cong, Guanhao Feng, Jingyu He 
+    - Conditionally accepted, Journal of Financial Economics. 2024.
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
-  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
+
+### Working Paper:
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (June 2024)
     - R&R, Journal of Banking and Finance
+  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen, and Bowen Du (September 2024)
     - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)

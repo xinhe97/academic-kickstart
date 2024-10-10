@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  13 SEP 2024 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  11 OCT 2024 01:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -917,54 +917,60 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip86
-))
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+\c@EM@itemctr=\count400
+\c@EM@etaremunectr=\count401
+)
 LaTeX Font Info:    Trying to load font information for T1+XCharter-TOsF on inp
-ut line 10.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/T1XCharter-TOsF.fd
+ut line 11.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/T1XCharter-TOsF.fd
 File: T1XCharter-TOsF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter
 -TOsF.
 )
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 10.
-\@quotelevel=\count400
-\@quotereset=\count401
+(Font)              scaled to size 10.51207pt on input line 11.
+\@quotelevel=\count402
+\@quotereset=\count403
+
 (./cv-xinhe.aux)
 \openout1 = `cv-xinhe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 11.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-0.
+1.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 11.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
-0.
+1.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1000,14 +1006,14 @@ LaTeX Font Info:    ... okay on input line 10.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 10.
+LaTeX Info: Redefining \microtypecontext on input line 11.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 10.
+LaTeX Info: Redefining \showhyphens on input line 11.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1017,20 +1023,20 @@ File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 )
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count402
+\scratchcounter=\count404
 \scratchdimen=\dimen160
 \scratchbox=\box52
-\nofMPsegments=\count403
-\nofMParguments=\count404
+\nofMPsegments=\count405
+\nofMParguments=\count406
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count405
+\MPscratchCnt=\count407
 \MPscratchDim=\dimen161
-\MPnumerator=\count406
-\makeMPintoPDFobject=\count407
+\MPnumerator=\count408
+\makeMPintoPDFobject=\count409
 \everyMPtoPDFconversion=\toks24
 )
-\c@mv@tabular=\count408
-\c@mv@boldtabular=\count409
+\c@mv@tabular=\count410
+\c@mv@boldtabular=\count411
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1054,9 +1060,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-xinhe.bbl' not found.
 
 No file cv-xinhe.bbl.
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
-Package hyperref Info: Link coloring OFF on input line 10.
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
+Package hyperref Info: Link coloring OFF on input line 11.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1067,73 +1073,73 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count410
+\c@section@level=\count412
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
  (./cv-xinhe.out) (./cv-xinhe.out)
 \@outlinefile=\write4
 \openout4 = `cv-xinhe.out'.
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 23.88496pt on input line 12.
+(Font)              scaled to size 23.88496pt on input line 13.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 40.
+(Font)              <10.95> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 40.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 41.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 41.
+nput line 42.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 43.
+nput line 44.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 47.
+ input line 48.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 47.
+n input line 48.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 62.
+(Font)              scaled to size 11.52008pt on input line 63.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 62.
+(Font)              scaled to size 11.52008pt on input line 63.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
-(Font)              scaled to size 10.51207pt on input line 70.
+(Font)              scaled to size 10.51207pt on input line 71.
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 70.
+(Font)              scaled to size 10.51207pt on input line 71.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 64--79
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 65--80
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 88--106
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 89--107
 [] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
-put line 142.
+put line 147.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
 File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
 r-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 142.
+(Font)              scaled to size 10.51207pt on input line 147.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1141,46 +1147,46 @@ Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 133--175
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 140--173
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 220--284
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 218--282
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 289--300
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 287--298
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 306--338
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 304--336
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 344--372
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 342--370
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 378.
+(Font)              scaled to size 7.68005pt on input line 376.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 377--382
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--380
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 389--441
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 387--439
 [] 
  []
 
 [4]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 447--490
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 445--488
 [] 
  []
 
@@ -1192,11 +1198,11 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22948 strings out of 478994
- 400977 string characters out of 5858185
- 1148766 words of memory out of 5000000
- 40054 multiletter control sequences out of 15000+600000
- 461842 words of font info for 100 fonts, out of 8000000 for 9000
+ 23012 strings out of 478994
+ 402487 string characters out of 5858185
+ 1149738 words of memory out of 5000000
+ 40112 multiletter control sequences out of 15000+600000
+ 462188 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,89p,988b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
@@ -1211,10 +1217,10 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (6 pages, 206253 bytes).
+Output written on cv-xinhe.pdf (6 pages, 205892 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
  32361 words of extra memory for PDF output out of 35830 (max. 10000000)
 
