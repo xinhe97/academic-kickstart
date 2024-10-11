@@ -72,8 +72,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
-### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
-
 ### Selected Publication:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
@@ -84,6 +82,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Yihui Chen and Haoyuan Wei
     - Forthcoming, **International Review of Finance**. 2024.
 
+### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
