@@ -77,12 +77,12 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Selected Publication:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
-    - Conditionally accepted, *Journal of Financial Economics*. 2024.
+    - Conditionally accepted, **Journal of Financial Economics**. 2024.
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12468)
     - with Yihui Chen and Haoyuan Wei
-    - Forthcoming, *International Review of Finance*. 2024.
+    - Forthcoming, **International Review of Finance**. 2024.
 
 
 ### Working Paper:
