@@ -87,6 +87,6 @@ Xin He is a Tenure-Track Associate Professor of Finance at School of Management 
 
 ### News
 
-- In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was conditionally accepted to *The Journal of Financial Economics*.
+- In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was accepted to *The Journal of Financial Economics*.
 - In July 2024, the paper *"Growing the Efficient Frontier on Panel Trees"* won the IQAM Research Award 2024, 3rd Research Prize Award.
 - In July 2024, the manuscript *"The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China"* was accepted to *International Review of Finance*.
