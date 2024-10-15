@@ -78,6 +78,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - Accepted, **Journal of Financial Economics**. 2024.
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
+    - [P-Tree Public Data](https://quantactix.github.io/P-Tree-Public-Data/)
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12468)
     - with Yihui Chen and Haoyuan Wei
     - Forthcoming, **International Review of Finance**. 2024.

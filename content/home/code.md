@@ -77,11 +77,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- I own the Github team [MLFINA](https://github.com/mlfina). I also contribute to [Quantactix](https://github.com/Quantactix). -->
 
 ### Panel Tree
-  - [Panel Tree with Asset Pricing Criteria](https://github.com/Quantactix/TreeFactor) *C++, R*
-
-  <!-- - Download Data
-    - PTree Factors and Test Assets are available for download! [*LINK*](https://www.dropbox.com/scl/fo/uzyrgysx6thlswjd0oo0g/h?rlkey=qc4l93y0dqh9s0pvneftm2jtr&dl=0)
-    - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463) -->
+  - [Code](https://github.com/Quantactix/TreeFactor) *C++, R, comming soon*
+  - [Public Data](https://quantactix.github.io/P-Tree-Public-Data/)
 
 ### China A-Share Market
   - [Equity characteristics and returns](https://github.com/Quantactix/ChinaAShareEquityCharacteristics) *python*
