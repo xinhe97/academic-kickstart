@@ -97,6 +97,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Machine Learning Dictionaries for Financial Textual Analysis
   - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
 
+### Belt and Road Initiative
+  - [Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
+
 <!-- ### In Progress: -->
 
 <!-- - [Basis Asset](https://github.com/Feng-CityUHK/basis_asset) -->
