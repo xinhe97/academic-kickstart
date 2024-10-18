@@ -76,7 +76,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
     - Accepted, **Journal of Financial Economics**. 2024.
-    - [P-Tree Public Data](https://quantactix.github.io/P-Tree-Public-Data/)
+    - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12468)
@@ -93,7 +93,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen, and Bowen Du (October 2024)
-    - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
+    - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
     - with Jinsheng, Liao, and Xiaojuan, Wang (October 2024)
-    - [Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
+    - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
