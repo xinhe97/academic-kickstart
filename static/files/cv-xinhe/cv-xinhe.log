@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  18 OCT 2024 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.2)  21 OCT 2024 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1169,24 +1169,24 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 313--345
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 351--381
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 351--382
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 387.
+(Font)              scaled to size 7.68005pt on input line 388.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 386--391
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 387--392
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 398--449
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 399--451
 [] 
  []
 
 [4]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 455--498
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 457--500
 [] 
  []
 
@@ -1198,11 +1198,11 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23001 strings out of 478994
- 402188 string characters out of 5858185
+ 23004 strings out of 478994
+ 402266 string characters out of 5858185
  1148738 words of memory out of 5000000
  40112 multiletter control sequences out of 15000+600000
- 460915 words of font info for 95 fonts, out of 8000000 for 9000
+ 461261 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,89p,988b,807s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
@@ -1217,7 +1217,7 @@ pe1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (6 pages, 206041 bytes).
+Output written on cv-xinhe.pdf (6 pages, 205565 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
