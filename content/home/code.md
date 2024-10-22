@@ -76,6 +76,10 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- I own the Github team [MLFINA](https://github.com/mlfina). I also contribute to [Quantactix](https://github.com/Quantactix). -->
 
+
+![Arsenal Emirates Stadium](img/arsenal.jpg)
+
+
 ### Panel Tree
   - [Code](https://github.com/Quantactix/TreeFactor) *C++, R, comming soon*
   - [Public Data](https://quantactix.github.io/P-Tree-Public-Data/)
