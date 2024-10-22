@@ -70,9 +70,9 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
-
+<!-- 
 ![The 4th Sister Mt.](img/Sister-4th.jpg)
-
+ -->
 
 <!-- ### Publication: -->
 
