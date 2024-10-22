@@ -83,6 +83,8 @@ user_groups:
 - Visitors
 ---
 
+![alt text](img/ustc-long.png)
+
 Xin He is a Tenure-Track Associate Professor of Finance at School of Management University of Science and Technology of China. He obtained his Ph.D. degree from City University of Hong Kong and B.S. degree from Shanghai Jiao Tong University. His research interest is Machine Learning in Finance, at the intersection of Financial Technology, Machine Learning, Data Science, Textual Analysis, Quantitative Investment, and Financial Econometrics. Currently, he focuses on developing machine learning solutions for big data challenges in empirical asset pricing. 
 
 ### News
@@ -90,5 +92,3 @@ Xin He is a Tenure-Track Associate Professor of Finance at School of Management 
 - In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was accepted to *The Journal of Financial Economics*.
 - In July 2024, the paper *"Growing the Efficient Frontier on Panel Trees"* won the IQAM Research Award 2024, 3rd Research Prize Award.
 - In July 2024, the manuscript *"The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China"* was accepted to *International Review of Finance*.
-
-![alt text](img/Sister-4th.jpg)
