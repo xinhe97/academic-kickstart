@@ -99,6 +99,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Sorted Portfolio](https://github.com/xinhe97/SortCS) *python*
 
 ### Machine Learning Dictionaries for Financial Textual Analysis
+  - [Code](https://github.com/mlfina/The_Risk_of_Finance_Words)
   - [Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
 
 ### Belt and Road Initiative

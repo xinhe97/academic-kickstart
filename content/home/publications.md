@@ -98,6 +98,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
+    - [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
     - with Jinsheng Liao, Xiaojuan Wang (October 2024)
     - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
