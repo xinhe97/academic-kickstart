@@ -70,8 +70,6 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}} -->
 
-![alt text](img/Sister-4th.jpg)
-
 <!-- ### Publication: -->
 
 ### Selected Publication:
@@ -99,3 +97,5 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
     - with Jinsheng Liao, Xiaojuan Wang (October 2024)
     - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
+
+![Arsenal Emirates Stadium](img/arsenal.jpg)
