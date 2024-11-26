@@ -92,7 +92,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "RM\#609, BLD \#1, International Institute of Finance, University of Science and Technology of China", city = "Hefei", region = "Anhui, China", postcode = "230026", country = "China", country_code = "CN"}
+address = {street = "RM 609, BLD 1, International Institute of Finance, University of Science and Technology of China", city = "Hefei", region = "Anhui, China", postcode = "230026", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
