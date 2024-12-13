@@ -83,7 +83,7 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is a Tenure-Track Associate Professor of Finance at School of Management University of Science and Technology of China. His research interest is Machine Learning in Finance, especially to develop machine learning solutions for big data challenges in empirical asset pricing. His work has been published in leading journals such as the Journal of Financial Economics and International Review of Finance.
+Xin He (Sean) is a Tenure-Track Associate Professor of Finance at School of Management University of Science and Technology of China. His research interest is Machine Learning in Finance, especially to develop machine learning solutions for big data challenges in empirical asset pricing. His work has been published in leading journals such as the Journal of Financial Economics, the Journal of Banking and Finance, and International Review of Finance.
 Sean’s research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
 
 ### News
@@ -91,4 +91,3 @@ Sean’s research has been acknowledged by practitioners, receiving research awa
 - In December 2024, the manuscript *"Predicting Individual Corporate Bond Returns"* was accepted to *The Journal of Banking and Finance*.
 - In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was accepted to *The Journal of Financial Economics*.
 - In July 2024, the paper *"Growing the Efficient Frontier on Panel Trees"* won the IQAM Research Award 2024, 3rd Research Prize Award.
-- In July 2024, the manuscript *"The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China"* was accepted to *International Review of Finance*.
