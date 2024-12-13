@@ -83,6 +83,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
+  - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
+    - with Guanhao Feng, Yanchu Wang, Chunchi Wu
+    - Forthcoming, **Journal of Banking and Finance**. 2024.
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12468)
     - with Yihui Chen and Haoyuan Wei
     - Forthcoming, **International Review of Finance**. 2024.
@@ -90,9 +93,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
-  - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (October 2024)
-    - R&R, Journal of Banking and Finance
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
