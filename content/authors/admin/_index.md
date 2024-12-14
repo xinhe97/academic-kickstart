@@ -14,6 +14,8 @@ role: Tenure-Track Associate Professor of Finance
 
 # Organizations/Affiliations
 organizations:
+- name: Faculty of Business for Science and Technology
+  url: "https://fbs.ustc.edu.cn/main.htm"
 - name: School of Management
   url: "https://som.ustc.edu.cn/main.htm"
 - name: University of Science and Technology of China
