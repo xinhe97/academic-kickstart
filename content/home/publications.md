@@ -79,7 +79,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Selected Publication:
   - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
-    - Accepted, **Journal of Financial Economics**. 2024.
+    - Forthcoming, **Journal of Financial Economics**. 2024.
     - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
@@ -94,7 +94,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (Augest 2024)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (August 2024)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
