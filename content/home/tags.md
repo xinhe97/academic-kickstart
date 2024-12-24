@@ -20,11 +20,3 @@ subtitle = ""
   font_size_min = 0.7
   font_size_max = 2.0
 +++
-
-# Corporate Bond
-
-# Machine Learning
-
-# Characteristics-Sorted Portfolio
-
-# Return Predictability

@@ -22,7 +22,7 @@ organizations:
   url: "https://www.ustc.edu.cn"
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include empirical asset pricing, financial econometrics and machine learning.
+bio: My research interests include empirical asset pricing.
 
 interests:
 - Asset Pricing
