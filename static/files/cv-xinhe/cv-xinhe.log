@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  24 DEC 2024 12:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  24 DEC 2024 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -810,40 +810,40 @@ al/texlive/2024/texmf-dist/fonts/enc/dvips/xcharter/xch1_dp2hrq.enc}{/usr/local
 /texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/
 texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/t
 exlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 217--281
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 217--271
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 286--297
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 276--287
 [] 
  []
 
 [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
 ]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 303--335
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 293--325
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 341--372
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 331--362
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 378.
+(Font)              scaled to size 7.68005pt on input line 368.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 377--382
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 367--372
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 389--440
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 379--430
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 446--489
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 436--479
 [] 
  []
 
@@ -861,7 +861,7 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 Here is how much of TeX's memory you used:
  23250 strings out of 474116
  422584 string characters out of 5743681
- 1950187 words of memory out of 5000000
+ 1948187 words of memory out of 5000000
  45269 multiletter control sequences out of 15000+600000
  615535 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -873,7 +873,7 @@ ts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/202
 4/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/
 2024/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv-xinhe.pdf (5 pages, 217559 bytes).
+Output written on cv-xinhe.pdf (5 pages, 217315 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
