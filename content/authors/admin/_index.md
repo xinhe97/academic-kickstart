@@ -91,4 +91,7 @@ Sean’s research has been acknowledged by practitioners, receiving research awa
 
 - In December 2024, the manuscript *"Predicting Individual Corporate Bond Returns"* was accepted to *Journal of Banking and Finance*.
 - In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was accepted to *Journal of Financial Economics*.
-- Research Students: Actively hiring research students interested in Machine Learning and Quantitative Investment, with background from CS/FIN/MATH/ORMS/STAT. Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
+- Research Students: 
+Actively hiring research students interested in Machine Learning and Quantitative Investment, 
+with background from FIN/MATH/ORMS/STAT. 
+Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
