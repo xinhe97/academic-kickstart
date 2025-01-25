@@ -77,18 +77,18 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 <!-- ### Publication: -->
 
 ### Selected Publication:
-  - [Growing the Efficient Frontier on Panel Trees](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
+  - [Growing the Efficient Frontier on Panel Trees](https://dx.doi.org/10.2139/ssrn.3949463)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
-    - Forthcoming, **Journal of Financial Economics**. 2024.
+    - Forthcoming, **Journal of Financial Economics**. 2025+.
     - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
-  - [Predicting Individual Corporate Bond Returns](https://doi.org/10.1016/j.jbankfin.2024.107372)
+  - [Predicting Individual Corporate Bond Returns](https://dx.doi.org/10.2139/ssrn.3870306)
     - with Guanhao Feng, Yanchu Wang, Chunchi Wu
-    - Forthcoming, **Journal of Banking and Finance**. 2024.
-  - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12468)
+    - **Journal of Banking \& Finance**, 2025, 171, 107372.
+  - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110785)
     - with Yihui Chen and Haoyuan Wei
-    - Forthcoming, **International Review of Finance**. 2024.
+    - Forthcoming, **International Review of Finance**. 2025+.
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
