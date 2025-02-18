@@ -1,64 +1,30 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  7 FEB 2025 23:42
- restricted system commands enabled.
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  18 FEB 2025 16:54
+entering extended mode
+ restricted \write18 enabled.
  file:line:error style messages enabled.
+ %&-line parsing enabled.
 **cv-xinhe.tex
 (./cv-xinhe.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
-Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
-Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
-ollection.
-luaotfload | conf : Root cache directory is "/Users/phe/Library/texlive/2024/tex
-mf-var/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
-olved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-
-2023-12-28.lua".
-Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.134
-Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/Users/phe/Library/texlive/2024/tex
-mf-var/luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
-Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
-Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
-Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
-Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 3
-Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
-Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (./clean_cv.cls
+(./clean_cv.cls
 Document Class: clean_cv 2021/07/28 v1.0.0 'CleanCV' Class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/phe/Library/texlive/202
-4/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\bibindent=\dimen139
+\bibindent=\dimen140
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -73,17 +39,17 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen140
-\Gm@wd@mp=\dimen141
-\Gm@odd@mp=\dimen142
-\Gm@even@mp=\dimen143
-\Gm@layoutwidth=\dimen144
-\Gm@layoutheight=\dimen145
-\Gm@layouthoffset=\dimen146
-\Gm@layoutvoffset=\dimen147
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
@@ -91,27 +57,25 @@ Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count197
+\etb@tempcnta=\count199
 )
 \MT@toks=\toks19
 \MT@tempbox=\box51
-\MT@count=\count198
+\MT@count=\count266
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
 \MT@prot@toks=\toks20
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen148
+\MT@outer@kern=\dimen149
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count199
+\MT@listname@count=\count267
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
-Lua module: microtype 2023/03/13 3.1a microtype module.
-Module microtype Info: overwriting function `keepligature' on input line 63
-LaTeX Info: Redefining \lsstyle on input line 688.
-LaTeX Info: Redefining \lslig on input line 688.
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip50
 )
 Package microtype Info: Loading configuration file microtype.cfg.
@@ -137,18 +101,18 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip60
 \aftertitleunit=\skip61
-\ttl@plus=\dimen149
-\ttl@minus=\dimen150
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
 \ttl@toksa=\toks21
-\titlewidth=\dimen151
-\titlewidthlast=\dimen152
-\titlewidthfirst=\dimen153
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen154
+\col@sep=\dimen155
 \ar@mcellbox=\box53
-\extrarowheight=\dimen155
+\extrarowheight=\dimen156
 \NC@list=\toks22
 \extratabsurround=\skip62
 \backup@length=\skip63
@@ -160,10 +124,10 @@ Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: luatex.def on input line 274.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
-File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
@@ -180,10 +144,9 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-02-20 L3 programming layer (loader) 
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2024-02-20 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count266
-Inserting `l3color' in `luaotfload.parse_color'.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box55
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
@@ -194,11 +157,11 @@ Package: xparse 2024-02-18 L3 Experimental document command parser
 (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip64
-\enit@outerparindent=\dimen156
+\enit@outerparindent=\dimen157
 \enit@toks=\toks23
 \enit@inbox=\box56
-\enit@count@id=\count267
-\enitdp@description=\count268
+\enit@count@id=\count269
+\enitdp@description=\count270
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
@@ -206,31 +169,13 @@ Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
-lper.sty
-Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
-e5
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic
+-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
 
-(/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
-Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
-
-(/usr/local/texlive/2024/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
-Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count269
-)
-\CatcodeTableOther=\catcodetable14
-\CatcodeTableExpl=\catcodetable15
-)
-LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
-nput line 69.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd
-)
-LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
- input line 70.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.
-fd))) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcharter/XCharter.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping
+.def))) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcharter/XCharter.sty
 Package: XCharter 2023/07/21 v1.25
 
 `XCharter' v1.25, 2023/07/21 Text macros for XCharter, an extension of Charter 
@@ -242,7 +187,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
-\XKV@depth=\count270
+\XKV@depth=\count271
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
@@ -250,8 +195,8 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/local/texlive/2024/texmf-dist/tex/generic/xstring/xstring.tex
-\xs_counta=\count271
-\xs_countb=\count272
+\xs_counta=\count272
+\xs_countb=\count273
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -259,160 +204,35 @@ Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/carlisle/scalefnt.sty)
-\xch@cnt=\count273
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/02/13 2.9a Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaT
-eX
-\l__fontspec_script_int=\count274
-\l__fontspec_language_int=\count275
-\l__fontspec_strnum_int=\count276
-\l__fontspec_tmp_int=\count277
-\l__fontspec_tmpa_int=\count278
-\l__fontspec_tmpb_int=\count279
-\l__fontspec_tmpc_int=\count280
-\l__fontspec_em_int=\count281
-\l__fontspec_emdef_int=\count282
-\l__fontspec_strong_int=\count283
-\l__fontspec_strongdef_int=\count284
-\l__fontspec_tmpa_dim=\dimen157
-\l__fontspec_tmpb_dim=\dimen158
-\l__fontspec_tmpc_dim=\dimen159
-
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-LaTeX Info: Redefining \textsl on input line 506.
-LaTeX Info: Redefining \oldstylenums on input line 524.
-LaTeX Info: Redefining \liningnums on input line 532.
+LaTeX Font Info:    Setting XCharter-LF sub-encoding to TS1/0 on input line 37.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/xcharter/XCharter.fontspec)
+LaTeX Font Info:    Changing XCharter-TLF sub-encoding to TS1/0 on input line 3
+7.
+LaTeX Font Info:    Setting XCharter-OsF sub-encoding to TS1/0 on input line 37
+.
+LaTeX Font Info:    Changing XCharter-TOsF sub-encoding to TS1/0 on input line 
+37.
+\xch@cnt=\count274
 
-Package fontspec Info: XCharter-Roman scale = .96.
-
-
-Package fontspec Info: XCharter-Roman scale = .96.
-
-
-Package fontspec Info: XCharter-Roman scale = .96.
-
-
-Package fontspec Info: XCharter-Bold scale = .96.
-
-
-Package fontspec Info: XCharter-Bold scale = .96.
-
-
-Package fontspec Info: XCharter-Italic scale = .96.
-
-
-Package fontspec Info: XCharter-Italic scale = .96.
-
-
-Package fontspec Info: XCharter-Slanted scale = .96.
-
-
-Package fontspec Info: XCharter-Slanted scale = .96.
-
-
-Package fontspec Info: XCharter-BoldItalic scale = .96.
-
-
-Package fontspec Info: XCharter-BoldItalic scale = .96.
-
-
-Package fontspec Info: XCharter-BoldSlanted scale = .96.
-
-
-Package fontspec Info: XCharter-BoldSlanted scale = .96.
-
-
-Package fontspec Info: Font family 'XCharter(0)' created for font 'XCharter'
-(fontspec)             with options [Ligatures = TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX
-,Extension
-(fontspec)             = .otf,UprightFont = XCharter-Roman,BoldFont =
-(fontspec)             XCharter-Bold,ItalicFont =
-(fontspec)             XCharter-Italic,BoldItalicFont =
-(fontspec)             XCharter-BoldItalic,SlantedFont =
-(fontspec)             XCharter-Slanted,BoldSlantedFont =
-(fontspec)             XCharter-BoldSlanted,SmallCapsFeatures =
-(fontspec)             {Letters=SmallCaps},Extension = .otf,Numbers =
-(fontspec)             {Monospaced,OldStyle},Scale = .96,UprightFont =
-(fontspec)             *-Roman,ItalicFont = *-Italic,SlantedFont =
-(fontspec)             *-Slanted,BoldFont = *-Bold,BoldItalicFont =
-(fontspec)             *-BoldItalic,BoldSlantedFont=
-(fontspec)             *-BoldSlanted,SmallCapsFeatures={Letters=SmallCaps},Char
-acterVariant={1:0}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Roman.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Roman.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Bold.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Bold.otf]:mode=node;script=latn;lan
-guage=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Italic.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Italic.otf]:mode=node;script=latn;l
-anguage=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Slanted.otf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Slanted.otf]:mode=node;script=latn;
-language=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-BoldItalic.otf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-BoldItalic.otf]:mode=node;script=la
-tn;language=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-BoldSlanted.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+tnum;+onum;+cv01=0;"
-(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-BoldSlanted.otf]:mode=node;script=l
-atn;language=dflt;+tlig;+tnum;+onum;+cv01=0;+smcp;"
-
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 669.
-
-Package fontspec Info: XCharter-Roman scale = .96.
-
-
-Package fontspec Info: XCharter-Roman scale = .96.
-
-
-Package fontspec Info: Font family 'XCharter-Roman(0)' created for font
-(fontspec)             'XCharter-Roman' with options [Ligatures =
-(fontspec)             TeX,Extension =
-(fontspec)             .otf,SmallCapsFeatures={Letters=SmallCaps},BoldFont={},I
-talicFont={},SmallCapsFont={},Scale
-(fontspec)             = .96,SmallCapsFeatures={Letters=SmallCaps}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[.96]"[XCharter-Roman.otf]:mode=node;script=latn;la
-nguage=dflt;+tlig;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \textsu on input line 737.
+LaTeX Info: Redefining \textde on input line 740.
+LaTeX Info: Redefining \textinf on input line 742.
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
@@ -430,7 +250,6 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks26
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -440,7 +259,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count285
+\lrq@indent=\count275
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -449,49 +268,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count286
-\c@listtotal=\count287
-\c@listcount=\count288
-\c@liststart=\count289
-\c@liststop=\count290
-\c@citecount=\count291
-\c@citetotal=\count292
-\c@multicitecount=\count293
-\c@multicitetotal=\count294
-\c@instcount=\count295
-\c@maxnames=\count296
-\c@minnames=\count297
-\c@maxitems=\count298
-\c@minitems=\count299
-\c@citecounter=\count300
-\c@maxcitecounter=\count301
-\c@savedcitecounter=\count302
-\c@uniquelist=\count303
-\c@uniquename=\count304
-\c@refsection=\count305
-\c@refsegment=\count306
-\c@maxextratitle=\count307
-\c@maxextratitleyear=\count308
-\c@maxextraname=\count309
-\c@maxextradate=\count310
-\c@maxextraalpha=\count311
-\c@abbrvpenalty=\count312
-\c@highnamepenalty=\count313
-\c@lownamepenalty=\count314
-\c@maxparens=\count315
-\c@parenlevel=\count316
-\blx@tempcnta=\count317
-\blx@tempcntb=\count318
-\blx@tempcntc=\count319
-\c@blx@maxsection=\count320
-\blx@maxsegment@0=\count321
-\blx@notetype=\count322
-\blx@parenlevel@text=\count323
-\blx@parenlevel@foot=\count324
-\blx@sectionciteorder@0=\count325
-\blx@sectionciteorderinternal@0=\count326
-\blx@entrysetcounter=\count327
-\blx@biblioinstance=\count328
+\c@tabx@nest=\count276
+\c@listtotal=\count277
+\c@listcount=\count278
+\c@liststart=\count279
+\c@liststop=\count280
+\c@citecount=\count281
+\c@citetotal=\count282
+\c@multicitecount=\count283
+\c@multicitetotal=\count284
+\c@instcount=\count285
+\c@maxnames=\count286
+\c@minnames=\count287
+\c@maxitems=\count288
+\c@minitems=\count289
+\c@citecounter=\count290
+\c@maxcitecounter=\count291
+\c@savedcitecounter=\count292
+\c@uniquelist=\count293
+\c@uniquename=\count294
+\c@refsection=\count295
+\c@refsegment=\count296
+\c@maxextratitle=\count297
+\c@maxextratitleyear=\count298
+\c@maxextraname=\count299
+\c@maxextradate=\count300
+\c@maxextraalpha=\count301
+\c@abbrvpenalty=\count302
+\c@highnamepenalty=\count303
+\c@lownamepenalty=\count304
+\c@maxparens=\count305
+\c@parenlevel=\count306
+\blx@tempcnta=\count307
+\blx@tempcntb=\count308
+\blx@tempcntc=\count309
+\c@blx@maxsection=\count310
+\blx@maxsegment@0=\count311
+\blx@notetype=\count312
+\blx@parenlevel@text=\count313
+\blx@parenlevel@foot=\count314
+\blx@sectionciteorder@0=\count315
+\blx@sectionciteorderinternal@0=\count316
+\blx@entrysetcounter=\count317
+\blx@biblioinstance=\count318
 \labelnumberwidth=\skip65
 \labelalphawidth=\skip66
 \biblabelsep=\skip67
@@ -502,10 +321,10 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip72
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language2
-\c@mincomprange=\count329
-\c@maxcomprange=\count330
-\c@mincompwidth=\count331
+\blx@langwohyphens=\language89
+\c@mincomprange=\count319
+\c@maxcomprange=\count320
+\c@mincompwidth=\count321
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -516,74 +335,74 @@ Package biblatex Info: Trying to load biblatex bibstyle data model...
 Package biblatex Info: ... file 'nature.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count332
-\c@savedafterword=\count333
-\c@annotator=\count334
-\c@savedannotator=\count335
-\c@author=\count336
-\c@savedauthor=\count337
-\c@bookauthor=\count338
-\c@savedbookauthor=\count339
-\c@commentator=\count340
-\c@savedcommentator=\count341
-\c@editor=\count342
-\c@savededitor=\count343
-\c@editora=\count344
-\c@savededitora=\count345
-\c@editorb=\count346
-\c@savededitorb=\count347
-\c@editorc=\count348
-\c@savededitorc=\count349
-\c@foreword=\count350
-\c@savedforeword=\count351
-\c@holder=\count352
-\c@savedholder=\count353
-\c@introduction=\count354
-\c@savedintroduction=\count355
-\c@namea=\count356
-\c@savednamea=\count357
-\c@nameb=\count358
-\c@savednameb=\count359
-\c@namec=\count360
-\c@savednamec=\count361
-\c@translator=\count362
-\c@savedtranslator=\count363
-\c@shortauthor=\count364
-\c@savedshortauthor=\count365
-\c@shorteditor=\count366
-\c@savedshorteditor=\count367
-\c@labelname=\count368
-\c@savedlabelname=\count369
-\c@institution=\count370
-\c@savedinstitution=\count371
-\c@lista=\count372
-\c@savedlista=\count373
-\c@listb=\count374
-\c@savedlistb=\count375
-\c@listc=\count376
-\c@savedlistc=\count377
-\c@listd=\count378
-\c@savedlistd=\count379
-\c@liste=\count380
-\c@savedliste=\count381
-\c@listf=\count382
-\c@savedlistf=\count383
-\c@location=\count384
-\c@savedlocation=\count385
-\c@organization=\count386
-\c@savedorganization=\count387
-\c@origlocation=\count388
-\c@savedoriglocation=\count389
-\c@origpublisher=\count390
-\c@savedorigpublisher=\count391
-\c@publisher=\count392
-\c@savedpublisher=\count393
-\c@language=\count394
-\c@savedlanguage=\count395
-\c@origlanguage=\count396
-\c@savedoriglanguage=\count397
-\c@pageref=\count398
-\c@savedpageref=\count399
+\c@afterword=\count322
+\c@savedafterword=\count323
+\c@annotator=\count324
+\c@savedannotator=\count325
+\c@author=\count326
+\c@savedauthor=\count327
+\c@bookauthor=\count328
+\c@savedbookauthor=\count329
+\c@commentator=\count330
+\c@savedcommentator=\count331
+\c@editor=\count332
+\c@savededitor=\count333
+\c@editora=\count334
+\c@savededitora=\count335
+\c@editorb=\count336
+\c@savededitorb=\count337
+\c@editorc=\count338
+\c@savededitorc=\count339
+\c@foreword=\count340
+\c@savedforeword=\count341
+\c@holder=\count342
+\c@savedholder=\count343
+\c@introduction=\count344
+\c@savedintroduction=\count345
+\c@namea=\count346
+\c@savednamea=\count347
+\c@nameb=\count348
+\c@savednameb=\count349
+\c@namec=\count350
+\c@savednamec=\count351
+\c@translator=\count352
+\c@savedtranslator=\count353
+\c@shortauthor=\count354
+\c@savedshortauthor=\count355
+\c@shorteditor=\count356
+\c@savedshorteditor=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@pageref=\count388
+\c@savedpageref=\count389
 \shorthandwidth=\skip73
 \shortjournalwidth=\skip74
 \shortserieswidth=\skip75
@@ -598,10 +417,6 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip84
 \localshortauthorwidth=\skip85
 \localshorteditorwidth=\skip86
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -613,19 +428,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count400
-\c@textcitetotal=\count401
-\c@textcitemaxnames=\count402
-\c@biburlbigbreakpenalty=\count403
-\c@biburlbreakpenalty=\count404
-\c@biburlnumpenalty=\count405
-\c@biburlucpenalty=\count406
-\c@biburllcpenalty=\count407
+\c@textcitecount=\count390
+\c@textcitetotal=\count391
+\c@textcitemaxnames=\count392
+\c@biburlbigbreakpenalty=\count393
+\c@biburlbreakpenalty=\count394
+\c@biburlnumpenalty=\count395
+\c@biburlucpenalty=\count396
+\c@biburllcpenalty=\count397
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count408
+\c@smartand=\count398
 )
 Package biblatex Info: Trying to load bibliography style 'nature'...
 Package biblatex Info: ... file 'nature.bbx' found.
@@ -647,8 +462,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count409
-\c@bbx:relatedtotal=\count410
+\c@bbx:relatedcount=\count399
+\c@bbx:relatedtotal=\count400
 ))))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -673,8 +488,7 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
 (biblatex)             2024-02-20 L3 programming layer (loader) 
@@ -709,21 +523,25 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count411
+\c@section@level=\count401
 )
-\@linkdim=\dimen160
-\Hy@linkcounter=\count412
-\Hy@pagecounter=\count413
+\@linkdim=\dimen158
+\Hy@linkcounter=\count402
+\Hy@pagecounter=\count403
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count414
+\Hy@SavedSpaceFactor=\count404
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
@@ -732,9 +550,9 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count415
+\c@Hy@tempcnt=\count405
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen161
+\XeTeXLinkMargin=\dimen159
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -743,9 +561,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count416
-\Field@Width=\dimen162
-\Fld@charsize=\dimen163
+\Fld@menulength=\count406
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -758,26 +576,22 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count417
-\c@Item=\count418
-\c@Hfootnote=\count419
+\Hy@abspage=\count407
+\c@Item=\count408
+\c@Hfootnote=\count409
 )
-Package hyperref Info: Driver (autodetected): hluatex.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count420
-\c@bookmark@seq@number=\count421
+\Fld@listcount=\count410
+\c@bookmark@seq@number=\count411
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -791,14 +605,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip87
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/etaremune/etaremune.sty
 Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
-\c@EM@itemctr=\count422
-\c@EM@etaremunectr=\count423
+\c@EM@itemctr=\count412
+\c@EM@etaremunectr=\count413
 )
-\@quotelevel=\count424
-\@quotereset=\count425
+LaTeX Info: Redefining \oldstylenums on input line 11.
+LaTeX Font Info:    Trying to load font information for T1+XCharter-TOsF on inp
+ut line 11.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xcharter/T1XCharter-TOsF.fd
+File: T1XCharter-TOsF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter
+-TOsF.
+)
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 11.
+\@quotelevel=\count414
+\@quotereset=\count415
 
 (./cv-xinhe.aux)
-\openout1 = cv-xinhe.aux
+\openout1 = `cv-xinhe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -809,13 +633,6 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-1.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -827,9 +644,9 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: luatex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: luatex
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -874,49 +691,50 @@ Package microtype Info: Automatic font expansion enabled (level 2),
 Package microtype Info: Using default expansion set `alltext-nott'.
 LaTeX Info: Redefining \showhyphens on input line 11.
 Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `XCharter' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+
+)
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count426
-\scratchdimen=\dimen164
+\scratchcounter=\count416
+\scratchdimen=\dimen162
 \scratchbox=\box57
-\nofMPsegments=\count427
-\nofMParguments=\count428
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count429
-\MPscratchDim=\dimen165
-\MPnumerator=\count430
-\makeMPintoPDFobject=\count431
-\everyMPtoPDFconversion=\toks28
+\nofMPsegments=\count417
+\nofMParguments=\count418
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count419
+\MPscratchDim=\dimen163
+\MPnumerator=\count420
+\makeMPintoPDFobject=\count421
+\everyMPtoPDFconversion=\toks27
 )
+\c@mv@tabular=\count422
+\c@mv@boldtabular=\count423
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
-Package biblatex Info: LuaTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `cv-xinhe.bcf'.
 
-\openout3 = cv-xinhe.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv-xinhe.bbl' not found.
+Package biblatex Info: ... file 'cv-xinhe.bbl' found.
 
-No file cv-xinhe.bbl.
+(./cv-xinhe.bbl)
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
 Package hyperref Info: Link coloring OFF on input line 11.
-(./cv-xinhe.out) (./cv-xinhe.out)
+ (./cv-xinhe.out) (./cv-xinhe.out)
 \@outlinefile=\write4
+\openout4 = `cv-xinhe.out'.
 
-\openout4 = cv-xinhe.out
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
 (Font)              scaled to size 23.88496pt on input line 13.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -929,70 +747,103 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 41.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
+nput line 42.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
-File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
-ndard glyph set (RS)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 63.
-LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 63.
-LaTeX Font Info:    Font shape `TU/XCharter(0)/b/n' will be
-(Font)              scaled to size 10.51207pt on input line 71.
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 71.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 44.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 65--80
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 48.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
+fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
+ot available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
+n input line 48.
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 63.
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 63.
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
+(Font)              scaled to size 10.51207pt on input line 78.
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/it' will be
+(Font)              scaled to size 10.51207pt on input line 78.
+
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 65--87
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 89--107
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--114
 [] 
  []
 
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TOsF on in
+put line 161.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xcharter/TS1XCharter-TOsF.fd
+File: TS1XCharter-TOsF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharte
+r-TOsF.
+)
+LaTeX Font Info:    Font shape `TS1/XCharter-TOsF/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 161.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TOsF/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 147--172
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 154--179
 [] 
  []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 217--254
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2024/texmf-dist/fonts/enc/dvips/xcharter/xch1_dp2hrq.enc}{/usr/local
+/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/
+texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/t
+exlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 224--261
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 259--270
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 266--277
 [] 
  []
 
-[2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 276--315
+[2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}
+]
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 283--322
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 321--363
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 328--370
 [] 
  []
 
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 369.
+LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 376.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 368--373
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--380
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 380--439
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 387--446
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 445--488
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 452--495
 [] 
  []
 
@@ -1004,32 +855,28 @@ L3 programming layer <2020/03/25>
 Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
 (rerunfilecheck)             Checksum: B9756AB81131C7E310893476497C7111;1218.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
+\openout1 = `cv-xinhe.run.xml'.
 
-\openout1 = cv-xinhe.run.xml
-)
-
-Here is how much of LuaTeX's memory you used:
- 25547 strings out of 476447
- 125104,1977958 words of node,token memory allocated
- 553 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
-attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:1153,3:461,4:283,5:1133,6:134,7:7075,8:2,9:792,10:5,11:522
- 47257 multiletter control sequences out of 65536+600000
- 44 fonts using 4888535 bytes
- 90i,11n,129p,1004b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-Ital
-ic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XChart
-er-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesom
-e5/FontAwesome5Brands-Regular-400.otf></usr/local/texlive/2024/texmf-dist/fonts/
-opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
-2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
-otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
-Roman.otf>
-Output written on cv-xinhe.pdf (5 pages, 37314 bytes).
-
-PDF statistics: 144 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 131072)
- 105 words of extra memory for PDF output out of 10000 (max. 100000000)
+ ) 
+Here is how much of TeX's memory you used:
+ 23256 strings out of 474116
+ 422719 string characters out of 5743681
+ 1949187 words of memory out of 5000000
+ 45270 multiletter control sequences out of 15000+600000
+ 615868 words of font info for 108 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,11n,93p,1005b,850s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
+me5Brands-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fo
+ntawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fon
+ts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb></usr/local/texlive/
+2024/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb>
+Output written on cv-xinhe.pdf (5 pages, 222880 bytes).
+PDF statistics:
+ 145 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 32361 words of extra memory for PDF output out of 35830 (max. 10000000)
 

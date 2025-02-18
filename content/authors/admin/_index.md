@@ -82,7 +82,7 @@ user_groups:
 - Visitors
 ---
 
-Xin He (Sean) is a Tenure-Track Associate Professor of Finance at Faculty of Business for Science and Technology, School of Management, University of Science and Technology of China. 
+Xin He (Sean) is a Tenure-Track Associate Professor of Finance at University of Science and Technology of China. 
 His research interest is Asset Pricing and Quantitative Investment.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance, and International Review of Finance.
 Sean’s research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
