@@ -79,7 +79,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Selected Publication:
   - [Growing the Efficient Frontier on Panel Trees](https://doi.org/10.1016/j.jfineco.2025.104024)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
-    - Forthcoming, **Journal of Financial Economics**, 2025, 167, 104024.
+    - **Journal of Financial Economics**, 2025, 167, 104024.
     - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
@@ -88,7 +88,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - **Journal of Banking \& Finance**, 2025, 171, 107372.
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110785)
     - with Yihui Chen and Haoyuan Wei
-    - Forthcoming, **International Review of Finance**, 2025, 25(1), e12468.
+    - **International Review of Finance**, 2025, 25(1), e12468.
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
