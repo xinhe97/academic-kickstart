@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  19 FEB 2025 10:08
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  22 FEB 2025 05:48
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -906,13 +906,13 @@ Package biblatex Info: Automatic encoding selection.
 
 \openout3 = cv-xinhe.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv-xinhe.bbl' found.
+Package biblatex Info: ... file 'cv-xinhe.bbl' not found.
 
-(./cv-xinhe.bbl)
+No file cv-xinhe.bbl.
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
 Package hyperref Info: Link coloring OFF on input line 11.
- (./cv-xinhe.out) (./cv-xinhe.out)
+(./cv-xinhe.out) (./cv-xinhe.out)
 \@outlinefile=\write4
 
 \openout4 = cv-xinhe.out
@@ -953,46 +953,46 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--114
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 154--179
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 160--185
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 224--261
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 230--263
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 266--277
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 268--279
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 283--322
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 285--324
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 328--370
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 330--372
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 376.
+(Font)              scaled to size 7.68005pt on input line 378.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--380
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 377--382
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 387--446
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 389--450
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 452--495
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 456--499
 [] 
  []
 
@@ -1009,14 +1009,13 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25553 strings out of 476447
+ 25547 strings out of 476447
  125104,1977958 words of node,token memory allocated
  553 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
 attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1153,3:467,4:283,5:1133,6:142,7:7075,8:2,9:792,10:5,11:522
-
- 47258 multiletter control sequences out of 65536+600000
+   avail lists: 2:1185,3:477,4:295,5:1187,6:140,7:7461,8:2,9:806,10:5,11:560
+ 47257 multiletter control sequences out of 65536+600000
  44 fonts using 4888535 bytes
  90i,11n,129p,1004b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-Ital
@@ -1027,10 +1026,10 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (5 pages, 37622 bytes).
+Output written on cv-xinhe.pdf (5 pages, 37390 bytes).
 
-PDF statistics: 144 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+PDF statistics: 140 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  22 named destinations out of 1000 (max. 131072)
  105 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,9 +1,5 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv-xinhe.blg'
-[22] biber-darwin:340> INFO - === Tue Feb 18, 2025, 16:48:00
-[27] Biber.pm:419> INFO - Reading 'cv-xinhe.bcf'
-[52] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[59] bbl.pm:660> INFO - Writing 'cv-xinhe.bbl' with encoding 'UTF-8'
-[59] bbl.pm:763> INFO - Output to cv-xinhe.bbl
-[59] Biber.pm:131> WARN - The file 'cv-xinhe.bcf' does not contain any citations!
-[59] Biber.pm:133> INFO - WARNINGS: 1
+[21] biber-darwin:340> INFO - === Sat Feb 22, 2025, 05:22:42
+[26] Utils.pm:410> ERROR - cv-xinhe.bcf is malformed, last biblatex run probably failed. Deleted cv-xinhe.bbl
+[26] Biber.pm:136> INFO - ERRORS: 1
