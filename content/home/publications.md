@@ -83,6 +83,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - [Public Data: P-Tree Test Assetst and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
+    - Media Coverage: [IIF](https://iif.ustc.edu.cn/2025/0220/c19557a674300/page.htm), [IIF WeChat](https://mp.weixin.qq.com/s/rUE0shWHWTzA0EEig2ImCA)
   - [Predicting Individual Corporate Bond Returns](https://dx.doi.org/10.2139/ssrn.3870306)
     - with Guanhao Feng, Yanchu Wang, Chunchi Wu
     - **Journal of Banking \& Finance**, 2025, 171, 107372.
