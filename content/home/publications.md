@@ -99,7 +99,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (August 2024)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
-    - with Xinbo Chen*,  Bowen Du (October 2024)
+    - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
     - [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
