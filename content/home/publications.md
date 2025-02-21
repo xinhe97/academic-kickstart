@@ -76,7 +76,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
-### Selected Publication:
+### Selected Publication: ( * indicates our supervised reasearch students)
   - [Growing the Efficient Frontier on Panel Trees](https://doi.org/10.1016/j.jfineco.2025.104024)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
     - **Journal of Financial Economics**, 2025, 167, 104024.
