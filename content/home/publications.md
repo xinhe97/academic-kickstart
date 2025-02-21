@@ -76,7 +76,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 <!-- ### Publication: -->
 
-( * indicates our supervised reasearch students)
 
 ### Selected Publication: 
   - [Growing the Efficient Frontier on Panel Trees](https://doi.org/10.1016/j.jfineco.2025.104024)
@@ -91,7 +90,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - **Journal of Banking \& Finance**, 2025, 171, 107372.
     - Media Coverage: [XueShuo](https://mp.weixin.qq.com/s/cKEdy-d-O_XiTX7IhFhiwA)
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110785)
-    - with Yihui Chen and Haoyuan Wei*
+    - with Yihui Chen and Haoyuan Wei
     - **International Review of Finance**, 2025, 25(1), e12468.
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
@@ -104,6 +103,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
     - [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
-    - with Yihui Chen and Jinsheng Liao*, Xiaojuan Wang* (October 2024)
+    - with Yihui Chen and Jinsheng Liao, Xiaojuan Wang (October 2024)
     - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
 
