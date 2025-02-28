@@ -86,7 +86,7 @@ Sean’s research has been acknowledged by practitioners, receiving research awa
 ### News
 
 - We are organizing **2025 USTC Alumni Finance Conference** [Call For Paper](https://afc-ustc.org)
-- In October 2024, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was accepted to *Journal of Financial Economics*.
+- In February 2025, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was published online in *Journal of Financial Economics*.
 - Research Students: 
 Actively hiring research students interested in Quantitative Investment, 
 with background from FIN/MATH/ORMS/STAT. 
