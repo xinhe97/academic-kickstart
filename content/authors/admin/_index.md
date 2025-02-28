@@ -40,7 +40,7 @@ education:
 social:
 - icon: university
   icon_pack: fas
-  link: https://bs.ustc.edu.cn/english/profile-2437.html
+  link: https://bs.ustc.edu.cn/chinese/profile-2437.html
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qD8bY00AAAAJ&hl=en&authuser=2
