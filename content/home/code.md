@@ -81,7 +81,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 
 ### Panel Tree
-  - [Code](https://github.com/Quantactix/TreeFactor) *C++, R, comming soon*
+  - [JFE Replication](https://data.mendeley.com/datasets/k7d7xmdy4y/2)
+  - [Panel Tree Package](https://github.com/Quantactix/PTree), written in C++ and R.
   - [Public Data](https://quantactix.github.io/P-Tree-Public-Data/)
 
 ### China A-Share Market

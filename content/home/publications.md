@@ -81,6 +81,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Growing the Efficient Frontier on Panel Trees](https://doi.org/10.1016/j.jfineco.2025.104024)
     - with Lin William Cong, Guanhao Feng, Jingyu He 
     - **Journal of Financial Economics**, 2025, 167, 104024.
+    - [JFE Replication](https://data.mendeley.com/datasets/k7d7xmdy4y/2)
     - [Public Data: P-Tree Test Assets and Factors](https://quantactix.github.io/P-Tree-Public-Data/)
     - 2022 INQUIRE Europe Research Grant Award
     - 2024 IQAM Research Award
