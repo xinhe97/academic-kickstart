@@ -97,8 +97,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
-  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (August 2024)
+  - [Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation]
+  - [A Comprehensive Analysis of Cross-Predictability: Theory and Evidence]
+  - [Cross-Prediction on Firms, Stocks, and Corporate Bonds]
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
@@ -106,4 +107,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Firm Engagement in Belt and Road Initiative and the Cross-Section of Stock Returns: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991688)
     - with Yihui Chen and Jinsheng Liao, Xiaojuan Wang (October 2024)
     - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
+  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
+    - with Guanhao Feng, Junbo Wang, Chunchi Wu (August 2024)
 

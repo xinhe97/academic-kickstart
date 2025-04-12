@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  26 MAR 2025 10:57
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  12 APR 2025 21:28
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -953,46 +953,46 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--114
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 161--186
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 161--204
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 231--264
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 249--282
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 269--280
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 287--298
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 286--325
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 304--343
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 331--376
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 349--394
 [] 
  []
 
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 382.
+(Font)              scaled to size 7.68005pt on input line 400.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 381--386
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 399--404
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 393--458
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 411--476
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 464--514
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 482--532
 [] 
  []
 
@@ -1014,7 +1014,7 @@ Here is how much of LuaTeX's memory you used:
  553 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
 attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:1295,3:505,4:328,5:1322,6:141,7:8305,8:2,9:854,10:5,11:612
+   avail lists: 2:1295,3:514,4:328,5:1322,6:153,7:8305,8:2,9:917,10:5,11:612
  47257 multiletter control sequences out of 65536+600000
  44 fonts using 4888535 bytes
  90i,11n,129p,1004b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1026,7 +1026,7 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (5 pages, 37851 bytes).
+Output written on cv-xinhe.pdf (5 pages, 38179 bytes).
 
 PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams
