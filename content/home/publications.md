@@ -97,9 +97,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
-  - [Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation]
-  - [A Comprehensive Analysis of Cross-Predictability: Theory and Evidence]
-  - [Cross-Prediction on Firms, Stocks, and Corporate Bonds]
+  - [Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+  - [A Comprehensive Analysis of Cross-Predictability: Theory and Evidence](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
+  - [Cross-Prediction on Firms, Stocks, and Corporate Bonds](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
