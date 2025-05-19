@@ -22,7 +22,7 @@ bio: My research interests include empirical asset pricing.
 
 interests:
 - Asset Pricing
-- Quantitative Investment
+- Quantamental Investment
 
 education:
   courses:
@@ -79,7 +79,7 @@ user_groups:
 ---
 
 Xin He (Sean) is a Tenure-Track Associate Professor of Finance at University of Science and Technology of China. 
-His research interest is Asset Pricing and Quantitative Investment.
+His research interest is Asset Pricing and Quantamental Investment.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance, and International Review of Finance.
 Sean’s research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
 
@@ -88,6 +88,6 @@ Sean’s research has been acknowledged by practitioners, receiving research awa
 - We are organizing **2025 USTC Alumni Finance Conference** [Call For Paper](https://afc-ustc.org)
 - In February 2025, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was published online in *Journal of Financial Economics*.
 - Research Students: 
-Actively hiring research students interested in Quantitative Investment, 
+Actively hiring research students interested in Quantamental Investment, 
 with background from FIN/MATH/ORMS/STAT. 
 Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
