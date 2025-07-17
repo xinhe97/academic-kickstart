@@ -98,7 +98,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
-    - with Doron Avramov (May 2025)
+    - with Doron Avramov (July 2025)
   - [Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (May 2025)
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
