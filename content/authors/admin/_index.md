@@ -87,8 +87,8 @@ Xin's research has been acknowledged by practitioners, receiving research awards
 
 ### News
 
+- The paper *"Stochastic Discount Factors with Cross-Asset Spillovers"* is scheduled to present at *Paris December Finance Meeting 2025*.
 - We are organizing **2025 USTC Frontiers in Finance Conference** [Call For Paper](https://afc-ustc.org)
-- In May 2025, the manuscript *"Growing the Efficient Frontier on Panel Trees"* was published in *Journal of Financial Economics*.
 - Research Students: 
 Actively hiring research students interested in Quantamental Investment, 
 with background from FIN/MATH/ORMS/STAT. 
