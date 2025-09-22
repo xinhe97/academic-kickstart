@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  22 SEP 2025 22:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  23 SEP 2025 00:44
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -1014,7 +1014,7 @@ Here is how much of LuaTeX's memory you used:
  553 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
 attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:1427,3:503,4:303,5:1574,6:167,7:9381,8:2,9:998,10:24,11:796
+   avail lists: 2:1427,3:503,4:303,5:1568,6:167,7:9344,8:2,9:998,10:24,11:789
  47257 multiletter control sequences out of 65536+600000
  44 fonts using 4888535 bytes
  90i,11n,129p,1004b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1026,7 +1026,7 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (5 pages, 39356 bytes).
+Output written on cv-xinhe.pdf (5 pages, 39294 bytes).
 
 PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams
