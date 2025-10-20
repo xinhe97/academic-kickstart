@@ -102,8 +102,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
     - Scheduled to present at *Fudan International Symposium on AI in Finance 2025*, and *Paris December Finance Meeting 2025*.
-  - [Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
-    - with Guanhao Feng, Junbo Wang, Chunchi Wu (May 2025)
+  - [AI Applications and the Opportunistic Insider Trading of Executives: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355740)
+    - with Shuqi Zhang, Along Liu, Jibao Gu.
+    - Revise \& Resubmit.
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen,  Bowen Du (October 2024)
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
@@ -113,4 +114,3 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - [Public Data: Firm-level Exposure to Belt and Road Initiative](https://mlfina.github.io/Belt_and_Road/)
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
     - with Guanhao Feng, Junbo Wang, Chunchi Wu (August 2024)
-
