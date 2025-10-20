@@ -98,7 +98,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 
 ### Working Paper:
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
-    - with Doron Avramov (July 2025)
+    - with Doron Avramov (October 2025)
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
     - Scheduled to present at *Fudan International Symposium on AI in Finance 2025*, and *Paris December Finance Meeting 2025*.
