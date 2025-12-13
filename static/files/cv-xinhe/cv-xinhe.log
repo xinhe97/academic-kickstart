@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  23 OCT 2025 17:21
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  13 DEC 2025 10:42
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -953,50 +953,51 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--114
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 162--223
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 162--231
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 268--309
-[] 
- []
-
-
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 314--327
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 276--317
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 333--361
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 322--335
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 367--413
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 341--369
 [] 
  []
 
-LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 419.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 418--423
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--421
 [] 
  []
 
 [3]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 430--504
+LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 427.
+
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 426--431
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 510--562
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 438--512
 [] 
  []
 
-[4] [5] (./cv-xinhe.aux)
+[4]
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 518--570
+[] 
+ []
+
+[5] [6] (./cv-xinhe.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1009,12 +1010,12 @@ Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25547 strings out of 476447
+ 25548 strings out of 476447
  125104,1977958 words of node,token memory allocated
  553 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
 attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:1309,3:518,4:275,5:1532,6:154,7:9387,8:2,9:953,10:24,11:720
+   avail lists: 2:1219,3:534,4:251,5:1414,6:159,7:8689,8:2,9:979,10:24,11:672
  47257 multiletter control sequences out of 65536+600000
  44 fonts using 4888535 bytes
  90i,11n,129p,1004b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1026,10 +1027,10 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (5 pages, 39929 bytes).
+Output written on cv-xinhe.pdf (6 pages, 40697 bytes).
 
-PDF statistics: 142 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 131072)
+PDF statistics: 146 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 131072)
  105 words of extra memory for PDF output out of 10000 (max. 100000000)
 
