@@ -101,7 +101,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Doron Avramov (October 2025)
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
-    - Scheduled to present at *Fudan International Symposium on AI in Finance 2025*, and *Paris December Finance Meeting 2025*.
   - [AI Applications and the Opportunistic Insider Trading of Executives: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355740)
     - with Shuqi Zhang, Along Liu, Jibao Gu.
     - Revise \& Resubmit.
