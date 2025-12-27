@@ -83,7 +83,7 @@ His research interest is Asset Pricing and Quantamental Investment.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance, and International Review of Finance.
 Xin's research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
 
-何欣是中国科学技术大学管理学院金融学特任副教授。他的研究兴趣集中在资产定价和量本投资。他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。何欣的研究得到了业界的认可，并获得了INQUIRE Europe的研究奖项和IQAM研究奖。
+何欣是中国科学技术大学管理学院金融学特任副教授。他的研究兴趣集中在资产定价和量化投资。他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。何欣的研究得到了业界的认可，并获得了INQUIRE Europe的研究奖项和IQAM研究奖。
 
 ### News
 
