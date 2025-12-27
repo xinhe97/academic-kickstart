@@ -22,7 +22,7 @@ bio: My research interests include empirical asset pricing.
 
 interests:
 - Asset Pricing
-- Quantamental Investment
+- Quantitative Investment
 
 education:
   courses:
