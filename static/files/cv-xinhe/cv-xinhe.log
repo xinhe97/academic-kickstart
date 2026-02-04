@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  19 JAN 2026 17:04
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  4 FEB 2026 20:27
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -975,25 +975,25 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 341--369
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--424
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 375--427
 [] 
  []
 
 [3]
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 430.
+(Font)              scaled to size 7.68005pt on input line 433.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 429--434
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 432--437
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 441--515
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 444--518
 [] 
  []
 
 [4]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 521--573
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 524--576
 [] 
  []
 
@@ -1027,7 +1027,7 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (6 pages, 40808 bytes).
+Output written on cv-xinhe.pdf (6 pages, 40833 bytes).
 
 PDF statistics: 146 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams
