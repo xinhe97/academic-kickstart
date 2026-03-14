@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  27 FEB 2026 11:04
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.21)  14 MAR 2026 22:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **cv-xinhe.tex
@@ -797,9 +797,9 @@ Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
 \@quotelevel=\count424
 \@quotereset=\count425
 
-No file cv-xinhe.aux.
-
+(./cv-xinhe.aux)
 \openout1 = cv-xinhe.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
@@ -811,7 +811,7 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 1.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 11.
@@ -912,11 +912,13 @@ No file cv-xinhe.bbl.
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
 Package hyperref Info: Link coloring OFF on input line 11.
+(./cv-xinhe.out) (./cv-xinhe.out)
 \@outlinefile=\write4
 
 \openout4 = cv-xinhe.out
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
 (Font)              scaled to size 23.88496pt on input line 13.
+
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
@@ -951,47 +953,47 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 96--114
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 162--226
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 162--236
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 271--312
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 281--322
 [] 
  []
 
 [2]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 317--330
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 327--340
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 336--366
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 346--376
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 372--425
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 382--435
 [] 
  []
 
 [3]
 LaTeX Font Info:    Font shape `TU/XCharter(0)/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 431.
+(Font)              scaled to size 7.68005pt on input line 441.
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 430--435
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 440--445
 [] 
  []
 
 
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 442--505
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 452--515
 [] 
  []
 
 [4]
-Overfull \hbox (8.48793pt too wide) in paragraph at lines 511--563
+Overfull \hbox (8.48793pt too wide) in paragraph at lines 521--573
 [] 
  []
 
@@ -1000,36 +1002,22 @@ Overfull \hbox (8.48793pt too wide) in paragraph at lines 511--563
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `cv-xinhe.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv-xinhe.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  B9756AB81131C7E310893476497C7111;1218.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                cv-xinhe
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `cv-xinhe.out' has not changed.
+(rerunfilecheck)             Checksum: B9756AB81131C7E310893476497C7111;1218.
 Package logreq Info: Writing requests to 'cv-xinhe.run.xml'.
 
 \openout1 = cv-xinhe.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 25517 strings out of 476447
+ 25548 strings out of 476447
  125104,1977958 words of node,token memory allocated
  553 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 5 
 attribute, 65 glue_spec, 5 attribute_list, 1 write nodes
-   avail lists: 2:1181,3:527,4:261,5:1440,6:156,7:8475,8:2,9:962,10:26,11:688
- 47241 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1249,3:539,4:261,5:1440,6:160,7:8475,8:2,9:994,10:26,11:68
+8
+ 47257 multiletter control sequences out of 65536+600000
  44 fonts using 4888535 bytes
  90i,11n,129p,1008b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-Ital
@@ -1040,10 +1028,10 @@ opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/local/texlive/
 2024/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.
 otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/xcharter/XCharter-
 Roman.otf>
-Output written on cv-xinhe.pdf (6 pages, 40222 bytes).
+Output written on cv-xinhe.pdf (6 pages, 41269 bytes).
 
-PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
+PDF statistics: 146 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 105 words of extra memory for PDF output out of 10000 (max. 100000000)
 
