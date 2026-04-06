@@ -3,6 +3,9 @@
 \usepackage{etaremune}
 \usepackage[fontset=fandol]{ctex}
 
+% Support legacy escaped Unicode code points present in this source.
+\newcommand{\UTF}[1]{\char"#1}
+
 \author{Xin He}
 \headlineposition{}
 
@@ -12,7 +15,7 @@
 
 \begin{center}
 	\begin{tabular}{ll}
-		\faCenterStyle{regular}{address-card} {\color{brown} 中国合肥市中国科学技术大学国际金融研究院 1 号楼 609 室}
+		\faCenterStyle{regular}{address-card} {\color{brown} 中国合肥市中国科学技\UTF{672F}大学国\UTF{9645}金融研究院 1 号楼 609 室}
 		&
 		\faCenter{envelope} \href{mailto:xin.he@ustc.edu.cn}{\color{red} \underline{xin.he@ustc.edu.cn}} \\
 		\faCenter{globe} \href{https://www.xinhesean.com}{\color{orange} \underline{https://www.xinhesean.com}}
@@ -26,12 +29,12 @@
 
 \vspace{-1.5em}
 
-\section{工作经历}
+\section{工作\UTF{7ECF}\UTF{5386}}
 
 \begin{datetabular}{9em}
 
 	\dateentry{2024.08 -- 至今}{
-	\textbf{中国科学技术大学}
+	\textbf{中国科学技\UTF{672F}大学}
 
 	\textit{科技商学院、管理学院金融学特任副教授}
 
@@ -40,7 +43,7 @@
 	\dateentry{2022.09 -- 2024.07}{
 		\textbf{湖南大学}
 
-		\textit{金融与统计学院助理教授}
+		\textit{金融与\UTF{7EDF}\UTF{8BA1}学院助理教授}
 	}
 
 \end{datetabular}
@@ -53,23 +56,23 @@
 
 \textit{管理科学博士}
 
-导师：冯冠豪教授、王军波教授
+\UTF{5BFC}\UTF{5E08}：\UTF{51AF}冠豪教授、王\UTF{519B}波教授
 }
 
 \dateentry{2014 -- 2018}{
 \textbf{上海交通大学}
 
-\textit{工业工程学士}
+\textit{工\UTF{4E1A}工程学士}
 }
 
 \end{datetabular}
 
 \section{研究方向}
 \begin{center}
-	资产定价，金融计量，机器学习，量化投资，中国资本市场
+	\UTF{8D44}\UTF{4EA7}定价，金融\UTF{8BA1}量，机器学\UTF{4E60}，量化投\UTF{8D44}，中国\UTF{8D44}本市\UTF{573A}%
 \end{center}
 
-\section{发表论文}
+\section{\UTF{53D1}表\UTF{8BBA}文}
 
 \begin{enumerate}
 	\setlength\itemsep{1.0em}
@@ -78,22 +81,22 @@
 		with Lin William Cong, Guanhao Feng, and Jingyu He. \\
 		\textbf{Journal of Financial Economics}, 2025, 167, 104024.
 		\\
-		奖励：
+		\UTF{5956}励：
 			2022 INQUIRE Europe Research Grant Award，
 			2024 IQAM Research Prize
 			\\
-		媒体报道：
+		媒体\UTF{62A5}道：
 			\href{https://mp.weixin.qq.com/s/ePnIBXRj2YE-RSQkoWZTNw}{\underline{FBS}}，
 			\href{https://iif.ustc.edu.cn/2025/0220/c19557a674300/page.htm}{\underline{IIF}}，
 			\href{https://mp.weixin.qq.com/s/rUE0shWHWTzA0EEig2ImCA}{\underline{IIF WeChat}}，
-			\href{https://mp.weixin.qq.com/s/_hwltnHmtVf8iTVh62LhBQ}{\underline{学说}}，
-			\href{http://thfr.com.cn/magazine_detail.php?id=149}{\underline{清华金融评论}}。
+			\href{https://mp.weixin.qq.com/s/_hwltnHmtVf8iTVh62LhBQ}{\underline{学\UTF{8BF4}}}，
+			\href{http://thfr.com.cn/magazine_detail.php?id=149}{\underline{清\UTF{534E}金融\UTF{8BC4}\UTF{8BBA}}}。
 
 	\item ``Predicting Individual Corporate Bond Returns''
 		with Guanhao Feng, Yanchu Wang, and Chunchi Wu. \\
 		\textbf{Journal of Banking \& Finance}, 2025, 171, 107372. \\
-		媒体报道：
-			\href{https://mp.weixin.qq.com/s/_hwltnHmtVf8iTVh62LhBQ}{\underline{学说}}。
+		媒体\UTF{62A5}道：
+			\href{https://mp.weixin.qq.com/s/_hwltnHmtVf8iTVh62LhBQ}{\underline{学\UTF{8BF4}}}。
 
 	\item ``The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China''
 		with Yihui Chen and Haoyuan Wei. \\
@@ -101,30 +104,31 @@
 
 \end{enumerate}
 
-\section{工作论文}
+\section{工作\UTF{8BBA}文}
 \begin{datetabular}{9em}
 
 \dateentry{2026 年 2 月}{
 	\textbf{Stochastic Discount Factors with Cross-Asset Spillovers}
 	\begin{itemize}
 		\item 与 Doron Avramov 合作。
-		\item 奖励：2025 INQUIRE Europe Research Grant Award；2025 中山大学 Conference on Big Data, AI, and FinTech 最佳论文奖。
+		\item \UTF{5956}励：2025 INQUIRE Europe Research Grant Award；2025 中山大学 Conference on Big Data, AI, and FinTech 最佳\UTF{8BBA}文\UTF{5956}。
 	\end{itemize}\eatvspace}
 
 \dateentry{2026 年 1 月}{
 	\textbf{Optimal Portfolios with Trading Costs: The Case of Asset Spillovers}
 \eatvspace}
 
-\dateentry{2026 年 3 月}{
-	\textbf{Generative Portfolio Optimization with Transaction Cost: A Panel Tree Method}
+\dateentry{2026 年 4 月}{
+	\textbf{Generative Portfolio Selection, Transaction Cost, and Panel Tree}
 \eatvspace}
 
 \dateentry{2026 年 2 月}{
 	\textbf{Factor Investing and the Integration of Equity and Corporate Bond Markets}
 \eatvspace}
 
-\dateentry{2026 年 1 月}{
-	\textbf{Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation}
+\dateentry{2026 年 4 月}{
+	\textbf{Characteristic-Based Benchmarks Revisited: Panel Tree Benchmarks for Corporate Bond Returns and Mutual Fund Evaluation}
+	\vspace{.5cm}
 \eatvspace}
 
 \dateentry{2026 年 1 月}{
@@ -166,7 +170,7 @@
 
 \hspace{3cm} \begin{tabular}{l}
 
-	\textbf{冯冠豪} \\
+	\textbf{\UTF{51AF}冠豪} \\
 	副教授 \\
 	香港城市大学 \\
 	+852 34428346 \\
@@ -174,9 +178,9 @@
 
 	\\
 
-	\textbf{李隽业} \\
-	讲席教授 \\
-	复旦大学 \\
+	\textbf{李\UTF{96BD}\UTF{4E1A}} \\
+	\UTF{8BB2}席教授 \\
+	\UTF{590D}旦大学 \\
 	+86 25011211 \\
 	li\_junye@fudan.edu.cn \\
 
@@ -190,7 +194,7 @@
 
 	\\
 
-	\textbf{王军波} \\
+	\textbf{王\UTF{519B}波} \\
 	教授 \\
 	香港城市大学 \\
 	+852 34429492 \\
@@ -198,12 +202,12 @@
 
 \end{tabular}
 
-\section{科研项目}
+\section{科研\UTF{9879}目}
 
 \begin{datetabular}{9em}
 
 \dateentry{2026 -- 2026}{
-	\textbf{主持}，\textnormal{中国科学技术大学青年创新基金}
+	\textbf{主持}，\textnormal{中国科学技\UTF{672F}大学青年\UTF{521B}新基金}
 		\begin{itemize}
 			\item Cross-Predictability in Empirical Asset Pricing: Theory and Evidence.
 		\end{itemize}
@@ -211,7 +215,7 @@
 }
 
 \dateentry{2026 -- 2026}{
-	\textbf{主持}，\textnormal{中国科学技术大学 Global Initiative Fund}
+	\textbf{主持}，\textnormal{中国科学技\UTF{672F}大学 Global Initiative Fund}
 		\begin{itemize}
 			\item Pricing Corporate Bond Returns with Panel Tree.
 		\end{itemize}
@@ -219,7 +223,7 @@
 }
 
 \dateentry{2023 -- 2025}{
-	\textnormal{参与，香港研究资助局 General Research Fund}
+	\textnormal{参与，香港研究\UTF{8D44}助局 General Research Fund}
 		\begin{itemize}
 			\item 与 Jingyu He（PI）及 Guanhao Feng（Co-I）合作。
 			\item Regression Tree for Portfolio Optimization and Imbalanced Data.
@@ -228,7 +232,7 @@
 }
 
 \dateentry{2022 -- 2024}{
-	\textnormal{参与，香港研究资助局 General Research Fund}
+	\textnormal{参与，香港研究\UTF{8D44}助局 General Research Fund}
 		\begin{itemize}
 			\item 与 Guanhao Feng（PI）及 Junbo Wang（Co-I）合作。
 			\item Textual Analysis of Corporate Bond Market.
@@ -238,58 +242,58 @@
 
 \end{datetabular}
 
-\section{荣誉奖励}
+\section{\UTF{8363}誉\UTF{5956}励}
 \begin{datetabular}{9em}
-	\dateentry{2025}{中山大学 Conference on Big Data, AI, and FinTech 最佳论文奖}
+	\dateentry{2025}{中山大学 Conference on Big Data, AI, and FinTech 最佳\UTF{8BBA}文\UTF{5956}}
 	\dateentry{2025}{INQUIRE Europe Research Grant Award}
 	\dateentry{2024}{IQAM Research Award}
-	\dateentry{2024}{清华大学第十届经世学者论坛公司金融与会计分会场最佳论文奖}
-	\dateentry{2023}{湖南大学本科毕业论文优秀指导教师}
+	\dateentry{2024}{清\UTF{534E}大学第十届\UTF{7ECF}世学者\UTF{8BBA}\UTF{575B}公司金融与会\UTF{8BA1}分会\UTF{573A}最佳\UTF{8BBA}文\UTF{5956}}
+	\dateentry{2023}{湖南大学本科\UTF{6BD5}\UTF{4E1A}\UTF{8BBA}文\UTF{4F18}秀指\UTF{5BFC}教\UTF{5E08}}
 	\dateentry{2022}{INQUIRE Europe Research Grant Award}
-	\dateentry{2021}{上海交通大学安泰经济与金融研究生论坛最佳论文奖}
-	\dateentry{2021}{香港城市大学商学院博士生会议资助}
-	\dateentry{2018--2022}{香港城市大学博士奖学金}
-	\dateentry{2016}{清华大学全国工业工程应用案例大赛二等奖}
-	\dateentry{2015, 2016, 2017}{上海交通大学学业优秀奖}
+	\dateentry{2021}{上海交通大学安泰\UTF{7ECF}\UTF{6D4E}与金融研究生\UTF{8BBA}\UTF{575B}最佳\UTF{8BBA}文\UTF{5956}}
+	\dateentry{2021}{香港城市大学商学院博士生会\UTF{8BAE}\UTF{8D44}助}
+	\dateentry{2018--2022}{香港城市大学博士\UTF{5956}学金}
+	\dateentry{2016}{清\UTF{534E}大学全国工\UTF{4E1A}工程\UTF{5E94}用案例大\UTF{8D5B}二等\UTF{5956}}
+	\dateentry{2015, 2016, 2017}{上海交通大学学\UTF{4E1A}\UTF{4F18}秀\UTF{5956}}
 \end{datetabular}
 
-\section{教学经历}
+\section{教学\UTF{7ECF}\UTF{5386}}
 \begin{datetabular}{9em}
 
 \dateentry{中国科大}{
-	* 括号内为学生评教分数。
+	* 括号内\UTF{4E3A}学生\UTF{8BC4}教分数。
 	\begin{itemize}
-		\item 实证资产定价，金融硕士，2026 年春季学期（暂无）
-		\item 实证资产定价，学术硕士，2026 年春季学期（暂无）
-		\item 金融机构与金融市场，本科，2026 年春季学期（暂无）
-		\item 金融工程与前沿专题讲座，2025 年春季学期（暂无）
+		\item \UTF{5B9E}\UTF{8BC1}\UTF{8D44}\UTF{4EA7}定价，金融\UTF{7855}士，2026 年春季学期（\UTF{6682}无）
+		\item \UTF{5B9E}\UTF{8BC1}\UTF{8D44}\UTF{4EA7}定价，学\UTF{672F}\UTF{7855}士，2026 年春季学期（\UTF{6682}无）
+		\item 金融机\UTF{6784}与金融市\UTF{573A}，本科，2026 年春季学期（\UTF{6682}无）
+		\item 金融工程与前沿\UTF{4E13}\UTF{9898}\UTF{8BB2}座，2025 年春季学期（\UTF{6682}无）
 	\end{itemize}
 	\eatvspace
 }
 
 \dateentry{湖南大学}{
 	\begin{itemize}
-		\item 金融工程模拟与实验，2023 年夏季学期（暂无）
-		\item 固定收益证券，2023 年秋季学期（98.00/100）
-		\item 行为金融学，2023 年秋季学期（97.73/100）
+		\item 金融工程模\UTF{62DF}与\UTF{5B9E}\UTF{9A8C}，2023 年夏季学期（\UTF{6682}无）
+		\item 固定收益\UTF{8BC1}券，2023 年秋季学期（98.00/100）
+		\item 行\UTF{4E3A}金融学，2023 年秋季学期（97.73/100）
 	\end{itemize}
 	\eatvspace
 }
 
-\dateentry{高校与金融机构}{
+\dateentry{高校与金融机\UTF{6784}}{
 		\begin{itemize}
-			\item 客座报告：资产定价与量化投资
+			\item 客座\UTF{62A5}告：\UTF{8D44}\UTF{4EA7}定价与量化投\UTF{8D44}%
 		\end{itemize}
 	\eatvspace
 }
 
 \end{datetabular}
 
-\section{学术服务}
+\section{学\UTF{672F}服\UTF{52A1}}
 
 \begin{datetabular}{10em}
 
-	\dateentry{匿名审稿}{
+	\dateentry{匿名\UTF{5BA1}稿}{
 
 		Management Science,
 		Journal of Banking \& Finance,
@@ -316,15 +320,15 @@
 		\eatvspace
 	}
 
-	\dateentry{会议组织}{
+	\dateentry{会\UTF{8BAE}\UTF{7EC4}\UTF{7EC7}}{
 
-		\href{https://afc-ustc.org}{\underline{2025 USTC Frontiers in Finance Conference}}
+		\href{https://ffcconf.org}{\underline{2025 and 2026 USTC Frontiers in Finance Conference}}
 
-		2023 湖南大学金融与统计学院实证资产定价工作坊
+		2023 湖南大学金融与\UTF{7EDF}\UTF{8BA1}学院\UTF{5B9E}\UTF{8BC1}\UTF{8D44}\UTF{4EA7}定价工作坊
 
 	\eatvspace}
 
-	\dateentry{程序委员会}{
+	\dateentry{程序委\UTF{5458}会}{
 
 		2022, 2024 FMA Annual Meeting
 
@@ -339,18 +343,18 @@
 
 \section{其他信息}
 \begin{datetabular}{9em}
-	\dateentry{编程}{Python, R, MATLAB, C++, SAS, Linux, SQL, \LaTeX, Microsoft Office}
-	\dateentry{数据库}{CRSP, Compustat, IBES, TRACE, FISD, Wind, CSMAR}
-	\dateentry{兴趣}{阿森纳足球俱乐部，运动（健身、慢跑、足球、篮球、围棋），阅读（地理、哲学）}
+	\dateentry{\UTF{7F16}程}{Python, R, MATLAB, C++, SAS, Linux, SQL, \LaTeX, Microsoft Office}
+	\dateentry{数据\UTF{5E93}}{CRSP, Compustat, IBES, TRACE, FISD, Wind, CSMAR}
+	\dateentry{\UTF{5174}趣}{阿森\UTF{7EB3}足球\UTF{4FF1}\UTF{4E50}部，\UTF{8FD0}\UTF{52A8}（健身、慢\UTF{8DD1}、足球、\UTF{7BEE}球、\UTF{56F4}棋），\UTF{9605}\UTF{8BFB}（地理、哲学）}
 \end{datetabular}
 
-\section{学术报告}
+\section{学\UTF{672F}\UTF{62A5}告}
 
 \begin{datetabular}{9em}
 
 	\dateentry{2026}{
 		\begin{itemize}
-			\item 邀请报告，清华大学五道口金融学院（2026/4，北京）
+			\item 邀\UTF{8BF7}\UTF{62A5}告，清\UTF{534E}大学五道口金融学院（2026/4，北京）
 			\item Hong Kong Conference on Fintech and AI in Finance（2026/6，香港）
 		\end{itemize}
 		\eatvspace
@@ -358,22 +362,22 @@
 
 	\dateentry{2025}{
 
-EUROFIDAI-ESSEC Paris December Finance Meeting（2025/12，巴黎）；复旦大学 AI in Finance 国际研讨会（2025/11，上海）；中山大学 Conference on Big Data, AI, and FinTech（2025/10，广州）；澳门大学 FinTech and Financial Markets Workshop（2025/10，澳门）；邀请报告，上海交通大学安泰经管学院（2025/10，上海）；邀请业界报告，AITOPIA（2025/7，线上）；USTC Frontiers in Finance Conference（2025/7，合肥）；邀请报告，中国科学技术大学管理学院（2025/6，合肥）；Hong Kong Conference for Fintech, AI, and Big Data in Business（2025/5，香港）；邀请报告，中国科学技术大学管理学院（2025/5，合肥）；邀请报告，西南财经大学金融研究所（2025/4，成都）；中国青年统计学者年会（2025/4，济南）；邀请报告，厦门大学管理学院（2025/3，厦门）；邀请报告，四川大学经济学院（2025/3，成都）
+EUROFIDAI-ESSEC Paris December Finance Meeting（2025/12，巴黎）；\UTF{590D}旦大学 AI in Finance 国\UTF{9645}研\UTF{8BA8}会（2025/11，上海）；中山大学 Conference on Big Data, AI, and FinTech（2025/10，广州）；澳\UTF{95E8}大学 FinTech and Financial Markets Workshop（2025/10，澳\UTF{95E8}）；邀\UTF{8BF7}\UTF{62A5}告，上海交通大学安泰\UTF{7ECF}管学院（2025/10，上海）；邀\UTF{8BF7}\UTF{4E1A}界\UTF{62A5}告，AITOPIA（2025/7，\UTF{7EBF}上）；USTC Frontiers in Finance Conference（2025/7，合肥）；邀\UTF{8BF7}\UTF{62A5}告，中国科学技\UTF{672F}大学管理学院（2025/6，合肥）；Hong Kong Conference for Fintech, AI, and Big Data in Business（2025/5，香港）；邀\UTF{8BF7}\UTF{62A5}告，中国科学技\UTF{672F}大学管理学院（2025/5，合肥）；邀\UTF{8BF7}\UTF{62A5}告，西南\UTF{8D22}\UTF{7ECF}大学金融研究所（2025/4，成都）；中国青年\UTF{7EDF}\UTF{8BA1}学者年会（2025/4，\UTF{6D4E}南）；邀\UTF{8BF7}\UTF{62A5}告，厦\UTF{95E8}大学管理学院（2025/3，厦\UTF{95E8}）；邀\UTF{8BF7}\UTF{62A5}告，四川大学\UTF{7ECF}\UTF{6D4E}学院（2025/3，成都）
 
 		\eatvspace
 	}
 
 	\dateentry{2024}{
 
-青年学者资产定价研讨会，厦门大学经济学院（2024/10，厦门）；邀请报告，西南财经大学金融学院（2024/5，成都）；邀请报告，中国科学技术大学管理学院（2024/3，合肥）
+青年学者\UTF{8D44}\UTF{4EA7}定价研\UTF{8BA8}会，厦\UTF{95E8}大学\UTF{7ECF}\UTF{6D4E}学院（2024/10，厦\UTF{95E8}）；邀\UTF{8BF7}\UTF{62A5}告，西南\UTF{8D22}\UTF{7ECF}大学金融学院（2024/5，成都）；邀\UTF{8BF7}\UTF{62A5}告，中国科学技\UTF{672F}大学管理学院（2024/3，合肥）
 
 		\eatvspace
 	}
 
 	\dateentry{2023}{
 
-		 邀请报告，厦门大学管理学院（2023/11，厦门）；
-		 AI and Big Data in Accounting and Finance Conference，西交利物浦大学（2023/6，苏州）；
+		 邀\UTF{8BF7}\UTF{62A5}告，厦\UTF{95E8}大学管理学院（2023/11，厦\UTF{95E8}）；
+		 AI and Big Data in Accounting and Finance Conference，西交利物浦大学（2023/6，\UTF{82CF}州）；
 		Financial Econometrics Conference，Lancaster University（2023/3，Lancaster）
 
 		\eatvspace
@@ -381,60 +385,60 @@ EUROFIDAI-ESSEC Paris December Finance Meeting（2025/12，巴黎）；复旦大
 
 	\dateentry{2022}{
 
-			Australasian Finance \& Banking Conference，UNSW（2022/12，线上）；
-			 New Zealand Finance Meeting，AUT（2022/12，线上）；
-			 第五届 Conference on Big Data, AI, and FinTech，中山大学（2022/11，线上）；
-			 China Finance Annual Meeting，上海交通大学（2022/10，线上）；
-			 China International Risk Forum，东北财经大学（2022/7，线上）；
-			 Asian Meeting of the Econometric Society in China，香港中文大学（深圳）（2022/6，线上）；
-			 第六届 PKU-NUS Annual International Conference on Quantitative Finance and Economics，新加坡国立大学（2022/5，线上）
+			Australasian Finance \& Banking Conference，UNSW（2022/12，\UTF{7EBF}上）；
+			 New Zealand Finance Meeting，AUT（2022/12，\UTF{7EBF}上）；
+			 第五届 Conference on Big Data, AI, and FinTech，中山大学（2022/11，\UTF{7EBF}上）；
+			 China Finance Annual Meeting，上海交通大学（2022/10，\UTF{7EBF}上）；
+			 China International Risk Forum，\UTF{4E1C}北\UTF{8D22}\UTF{7ECF}大学（2022/7，\UTF{7EBF}上）；
+			 Asian Meeting of the Econometric Society in China，香港中文大学（深\UTF{5733}）（2022/6，\UTF{7EBF}上）；
+			 第六届 PKU-NUS Annual International Conference on Quantitative Finance and Economics，新加坡国立大学（2022/5，\UTF{7EBF}上）
 
 	\eatvspace
 	}
 
 	\dateentry{2021}{
 
-			China Finance Annual Meeting，厦门大学（2021/10，线上）；
-			INFORMS Annual Meeting（2021/10，线上）；
-			Financial Management Association Annual Meeting（2021/10，线上）；
-			讲座，香港城市大学（2021/9，香港）；
-			SoFiE Financial Econometrics Summer School，NYU Shanghai（2021/8，线上）；
-			China International Risk Forum，西南财经大学（2021/7，成都）；
-			第 37 届 French Finance Association 国际会议，Audencia Business School（2021/5，线上）；
-			第四届 China Accounting and Finance Conference，四川大学（2021/4，线上）；
-			Financial Markets and Corporate Governance Conference，La Trobe University（2021/4，线上）；
-			Camphor Economic Society Seminar Beijing（2021/2，线上）；
-			Camphor Economic Society Seminar Fujian（2021/1，线上）
+			China Finance Annual Meeting，厦\UTF{95E8}大学（2021/10，\UTF{7EBF}上）；
+			INFORMS Annual Meeting（2021/10，\UTF{7EBF}上）；
+			Financial Management Association Annual Meeting（2021/10，\UTF{7EBF}上）；
+			\UTF{8BB2}座，香港城市大学（2021/9，香港）；
+			SoFiE Financial Econometrics Summer School，NYU Shanghai（2021/8，\UTF{7EBF}上）；
+			China International Risk Forum，西南\UTF{8D22}\UTF{7ECF}大学（2021/7，成都）；
+			第 37 届 French Finance Association 国\UTF{9645}会\UTF{8BAE}，Audencia Business School（2021/5，\UTF{7EBF}上）；
+			第四届 China Accounting and Finance Conference，四川大学（2021/4，\UTF{7EBF}上）；
+			Financial Markets and Corporate Governance Conference，La Trobe University（2021/4，\UTF{7EBF}上）；
+			Camphor Economic Society Seminar Beijing（2021/2，\UTF{7EBF}上）；
+			Camphor Economic Society Seminar Fujian（2021/1，\UTF{7EBF}上）
 
 	\eatvspace
 	}
 
 \end{datetabular}
 
-\section{论文讨论}
+\section{\UTF{8BBA}文\UTF{8BA8}\UTF{8BBA}}
 
 \begin{datetabular}{9em}
 
 	\dateentry{2025}{
 	\begin{itemize}
 		\item ``Deciphering the Impact of BigTech Consumer Credit''，Conference on Big Data, AI, and FinTech，中山大学，广州。
-		\item ``Nonverbal Information in Expectation Management -- A Multimodal Perspective (in Chinese)''，CFRC，清华大学五道口金融学院，北京。
-		\item ``Oil-Driven Greenium''，International Conference on Green Finance and ESG，西南财经大学，成都。
+		\item ``Nonverbal Information in Expectation Management -- A Multimodal Perspective (in Chinese)''，CFRC，清\UTF{534E}大学五道口金融学院，北京。
+		\item ``Oil-Driven Greenium''，International Conference on Green Finance and ESG，西南\UTF{8D22}\UTF{7ECF}大学，成都。
 	\end{itemize}
 	\eatvspace
 	}
 
 	\dateentry{2024}{
 	\begin{itemize}
-		\item ``Carbon Risk and the Cost of Debt''，Greater China Area Finance Conference，厦门大学
-		\item ``Investor Sentiment and Cryptocurrency Returns''，Greater China Area Finance Conference，厦门大学
+		\item ``Carbon Risk and the Cost of Debt''，Greater China Area Finance Conference，厦\UTF{95E8}大学
+		\item ``Investor Sentiment and Cryptocurrency Returns''，Greater China Area Finance Conference，厦\UTF{95E8}大学
 	\end{itemize}
 	\eatvspace
 	}
 
 	\dateentry{2023}{
 	\begin{itemize}
-		\item ``Do Insurers Listen to Earnings Conference Calls? Evidence from the Corporate Bond Market''，西交利物浦大学会议
+		\item ``Do Insurers Listen to Earnings Conference Calls? Evidence from the Corporate Bond Market''，西交利物浦大学会\UTF{8BAE}%
 	\end{itemize}
 	\eatvspace
 	}
@@ -467,7 +471,7 @@ EUROFIDAI-ESSEC Paris December Finance Meeting（2025/12，巴黎）；复旦大
 \end{datetabular}
 
 \begin{center}
-	最后更新：2026 年 3 月 18 日
+	最后更新：2026 年 4 月 6 日
 \end{center}
 
 \end{document}
