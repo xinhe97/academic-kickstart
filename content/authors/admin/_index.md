@@ -23,9 +23,9 @@ bio: My research interests include empirical asset pricing.
 interests:
 - Asset Pricing
 - Financial Econometrics
-- Machine Learning
+- Financial Large Language Model
+- Financial Machine Learning
 - Quantitative Investment
-- China Market
 
 education:
   courses:
