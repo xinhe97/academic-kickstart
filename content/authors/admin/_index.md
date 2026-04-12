@@ -82,7 +82,7 @@ user_groups:
 ---
 
 Xin He is a Tenure-Track Associate Professor of Finance at University of Science and Technology of China. 
-His research interest is Asset Pricing and Quantitative Investment, with new tool from Econometrics, Large Language Model, and Machine Learning.
+His research interest is Asset Pricing and Quantitative Investment, with tools from Econometrics, Large Language Model, and Machine Learning.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance.
 Xin's research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
 
