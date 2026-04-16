@@ -91,8 +91,7 @@ Xin's research has been acknowledged by practitioners, receiving research awards
 ### News
 
 - We are organizing **2026 USTC Frontiers in Finance Conference** [Call For Paper](https://ffcconf.org)
-- The paper *"Factor Investing and the Integration of Equity and Corporate Bond Markets"* is scheduled to present at AsianFA 2026 (Seoul) and Hong Kong Conference on Fintech and AI in Finance 2026.
-- The paper *"Stochastic Discount Factors with Cross-Asset Spillovers"* is donated by *INQUIRE Europe Research Grant Award 2025*, wins *Best Paper Award at SYSU Conference on Big Data, AI, and FinTech 2025*, and is scheduled to present at SoFiE 2026 (Macau).
+- The paper *"Factor Investing and the Integration of Equity and Corporate Bond Markets"* is scheduled to present at AsianFA 2026 (Seoul), CES China Annual Conference 2026 (Chengdu), and Hong Kong Conference on Fintech and AI in Finance 2026.
 - Research Students: 
 Actively hiring research students interested in Quantamental Investment, 
 with background from FIN/MATH/ORMS/STAT. 

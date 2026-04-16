@@ -97,6 +97,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
+  - [Factor Investing and the Integration of Corporate Bond and Equity Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6588823)
+    - with Xinlei Hao, Junbo Wang, Yuanzhi Wang (April 2026)
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
     - with Doron Avramov (October 2025)
     - INQUIRE Europe Research Grant Award 2025.
