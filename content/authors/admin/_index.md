@@ -93,6 +93,6 @@ Xin's research has been acknowledged by practitioners, receiving research awards
 - We are organizing **2026 USTC Frontiers in Finance Conference** [Call For Paper](https://ffcconf.org)
 - The paper *"Factor Investing and the Integration of Equity and Corporate Bond Markets"* is scheduled to present at Tsinghua PBCSF, AsianFA 2026 (Seoul), CES China Annual Conference 2026 (Chengdu), and Hong Kong Conference on Fintech and AI in Finance 2026.
 - Research Students: 
-Actively hiring research students interested in Quantamental Investment, 
+Actively hiring research students interested in Quantitative Investment, 
 with background from FIN/MATH/ORMS/STAT. 
 Please email your transcript, cv, and cover letter to *mlfina.ustc@gmail.com*.
