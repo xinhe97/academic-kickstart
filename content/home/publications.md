@@ -95,7 +95,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - **International Review of Finance**, 2025, 25(1), e12468.
   - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
     - with Xinbo Chen, Bowen Du
-    - Asia-Pacific Journal of Accounting \& Economics, forthcoming, 2026+.
+    - **Asia-Pacific Journal of Accounting \& Economics**, forthcoming, 2026+.
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/), [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
   
 
