@@ -93,6 +93,11 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [The Bright Side of Cross Ownership: Evidence From the Corporate Resilience to COVID-19 Crisis in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5110785)
     - with Yihui Chen and Haoyuan Wei
     - **International Review of Finance**, 2025, 25(1), e12468.
+  - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
+    - with Xinbo Chen, Bowen Du
+    - Asia-Pacific Journal of Accounting \& Economics, forthcoming, 2026+.
+    - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/), [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
+  
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
@@ -109,9 +114,3 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [When Competitors Go Public: Innovation Spillovers through Competitive Pressure and Learning Channels](https://ssrn.com/abstract=5222883)
     - with Yihui Chen, Zeyi Wu, Zhilin Wu
     - Revise \& Resubmit.
-  - [The Risk of Finance Words](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947710)
-    - with Xinbo Chen, Bowen Du (October 2024)
-    - Revise \& Resubmit.
-    - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/)
-    - [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
-  
