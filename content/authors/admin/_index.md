@@ -90,7 +90,8 @@ Xin's research has been acknowledged by practitioners, receiving research awards
 
 ### News
 
-- We are organizing **2026 USTC Frontiers in Finance Conference** [Call For Paper](https://ffcconf.org)
+- We are organizing **2026 USTC Frontiers in Finance Conference** [Call For Paper](https://ffcconf.org) July 1st.
+- We are organizing **2026 ABFER-JFDS Conference on AI for Finance** [Call For Paper](https://www.ssrn.com/index.cfm/en/janda/announcement/?id=19223) August 18th.
 - The paper *"Factor Investing and the Integration of Equity and Corporate Bond Markets"* is scheduled to present at Tsinghua PBCSF, AsianFA 2026 (Seoul), CES China Annual Conference 2026 (Chengdu), The 6th Greater China Area Finance Conference 2026 (Xiamen), and Hong Kong Conference on Fintech and AI in Finance 2026.
 - Research Students: 
 Actively hiring research students interested in Quantitative Investment, 
