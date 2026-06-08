@@ -105,7 +105,8 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Factor Investing and the Integration of Corporate Bond and Equity Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6588823)
     - with Xinlei Hao, Junbo Wang, Yuanzhi Wang (April 2026)
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
-    - with Doron Avramov (October 2025)
+    - with Doron Avramov (February 2026)
+    - Revise \& Resubmit.
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
   - [AI Applications and the Opportunistic Insider Trading of Executives: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355740)
