@@ -18,14 +18,13 @@ organizations:
   url: "https://www.ustc.edu.cn"
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include empirical asset pricing.
+bio: My research studies AI for Finance, asset pricing, quantitative investment, and China Market.
 
 interests:
+- AI for Finance
 - Asset Pricing
-- Financial Econometrics
-- Financial Large Language Model
-- Financial Machine Learning
 - Quantitative Investment
+- China Market
 
 education:
   courses:
@@ -82,11 +81,13 @@ user_groups:
 ---
 
 Xin He is a Tenure-Track Associate Professor of Finance at University of Science and Technology of China. 
-His research interest is Asset Pricing and Quantitative Investment, with tools from Econometrics, Large Language Model, and Machine Learning.
+His research focuses on AI for Finance, Asset Pricing, Quantitative Investment, and China Market, with tools from econometrics, machine learning, and large language models.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance.
 Xin's research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
 
-何欣是中国科学技术大学管理学院金融学特任副教授。他的研究兴趣集中在资产定价和量化投资，并创造新的计量、大语言模型、机器学习金融工具。他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。何欣的研究得到了业界的认可,并获得了INQUIRE Europe的研究奖项和IQAM研究奖。
+何欣是中国科学技术大学管理学院金融学特任副教授。他的研究聚焦于金融人工智能、资产定价、量化投资和中国市场，并融合计量经济学、机器学习和大语言模型方法。
+他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。
+何欣的研究得到了业界的认可,并获得了INQUIRE Europe的研究奖项和IQAM研究奖。
 
 ### News
 
