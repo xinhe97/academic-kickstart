@@ -97,6 +97,9 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - with Xinbo Chen, Bowen Du
     - **Asia-Pacific Journal of Accounting \& Economics**, forthcoming, 2026+.
     - [Public Data: Volatility Dictionary](https://mlfina.github.io/Volatility_Dictionary/), [Replication Package: Volatility Dictionary](https://github.com/mlfina/The_Risk_of_Finance_Words)
+  - [The Sustainable Value of Market Discipline: How Short-Selling Enhances Corporate ESG Performance](https://ssrn.com/abstract=5492606)
+    - with Yihui Chen, Qilin Ji, and Weiran Wang
+    - **International Review of Finance**, forthcoming, 2026+.
   
 
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
