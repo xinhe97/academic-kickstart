@@ -105,7 +105,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
 
 ### Working Paper:
-  - [The Out-of-Sample Value of Cross-Market Information in Corporate Bond and Equity Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6588823)
+  - [The Out-of-Sample Value of Cross-Market Information in Corporate Bond and Equity Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7339338)
     - with Xinlei Hao, Junbo Wang, Yuanzhi Wang (August 2026)
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
     - with Doron Avramov (February 2026)
