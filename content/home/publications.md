@@ -112,9 +112,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - Revise \& Resubmit.
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
-  - [AI Applications and the Opportunistic Insider Trading of Executives: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355740)
-    - with Shuqi Zhang, Along Liu, Jibao Gu.
-    - Revise \& Resubmit.
   - [When Competitors Go Public: Innovation Spillovers through Competitive Pressure and Learning Channels](https://ssrn.com/abstract=5222883)
     - with Yihui Chen, Zeyi Wu, Zhilin Wu
     - Revise \& Resubmit.
