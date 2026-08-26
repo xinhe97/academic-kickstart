@@ -83,11 +83,13 @@ user_groups:
 Xin He is a Tenure-Track Associate Professor of Finance at University of Science and Technology of China. 
 His research focuses on AI for Finance, Asset Pricing, Quantitative Investment, and China Market, with tools from econometrics, machine learning, and large language models.
 His work has been published in leading journals such as Journal of Financial Economics, Journal of Banking and Finance.
-Xin's research has been acknowledged by practitioners, receiving research awards from INQUIRE Europe and IQAM Research Prize.
+Xin is the Principal Investigator for various external research grants, including the NSFC Youth Science Fund.
+Xin has received several honors for his research, including awards from INQUIRE Europe and IQAM Research Prize.
 
 何欣是中国科学技术大学管理学院金融学特任副教授。他的研究聚焦于金融人工智能、资产定价、量化投资和中国市场，并融合计量经济学、机器学习和大语言模型方法。
 他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。
-何欣的研究得到了业界的认可,并获得了INQUIRE Europe的研究奖项和IQAM研究奖。
+他主持校外科研基金，包括国家自然科学基金青年科学基金项目（C类）。
+其研究曾获INQUIRE Europe和IQAM等荣誉。
 
 ### News
 
