@@ -86,10 +86,11 @@ His work has been published in leading journals such as Journal of Financial Eco
 Xin is the Principal Investigator for various external research grants, including the NSFC Youth Science Fund.
 Xin has received several honors for his research, including awards from INQUIRE Europe and IQAM Research Prize.
 
-何欣是中国科学技术大学管理学院金融学特任副教授。他的研究聚焦于金融人工智能、资产定价、量化投资和中国市场，并融合计量经济学、机器学习和大语言模型方法。
-他的研究成果已发表在 Journal of Financial Economics, Journal of Banking and Finance 等知名期刊上。
-他主持校外科研基金，包括国家自然科学基金青年科学基金项目（C类）。
-其研究曾获INQUIRE Europe和IQAM等荣誉。
+何欣是中国科学技术大学科技商学院、管理学院金融学特任副教授。
+他的研究兴趣集中在金融人工智能，资产定价，量化投资，中国市场，并融合计量经济学、机器学习和大语言模型工具方法。
+他的研究成果已发表在Journal of Financial Economics, Journal of Banking and Finance等知名期刊上。 
+何欣主持国家自然科学基金青年科学基金项目（C类），获 INQUIRE Europe 资助和 IQAM 研究奖等荣誉。
+何欣本科毕业于 上海交通大学 工业工程系 2018年，博士毕业于 香港城市大学 管理科学系 2022年。
 
 ### News
 
