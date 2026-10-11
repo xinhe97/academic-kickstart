@@ -112,5 +112,5 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - **Journal of Econometrics**, Revise \& Resubmit.
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
-  - [Cost-Aware Generative Portfolio](https://www.xinhesean.com/files/paper/cv-xinhe/slides_Cost_Aware_Generative_Portfolios.pdf)
+  - [Cost-Aware Generative Portfolio](https://www.xinhesean.com/files/paper/slides_Cost_Aware_Generative_Portfolios.pdf)
     - with Lin William Cong, Jingyu He, Feng Ye (Oct 2026)
