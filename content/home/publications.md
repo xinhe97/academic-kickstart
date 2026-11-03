@@ -111,4 +111,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
   - [Cost-Aware Generative Portfolio](https://www.xinhesean.com/files/paper/main25.pdf)
     - with Lin William Cong, Jingyu He, Feng Ye (Oct 2026)
-    - [Slides](https://www.xinhesean.com/files/paper/slides25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/ijoc-supplyment-3.pdf.pdf)
+    - [Slides](https://www.xinhesean.com/files/paper/slides25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/ijoc-supplyment-3.pdf)
