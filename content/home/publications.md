@@ -113,4 +113,4 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
   - [Cost-Aware Generative Portfolios](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
     - with Lin William Cong, Jingyu He, Feng Ye (Oct 2026)
     - Submitted.
-    - [Paper](https://www.xinhesean.com/files/paper/paper25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/online-supplyment-3.pdf), [Slides](https://www.xinhesean.com/files/paper/slides25.pdf).
+    - [Paper](https://www.xinhesean.com/files/paper/paper25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/ijoc-supplyment-3.pdf), [Slides](https://www.xinhesean.com/files/paper/slides25.pdf).
