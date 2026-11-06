@@ -104,11 +104,13 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 ### Working Paper:
   - [The Out-of-Sample Value of Cross-Market Information in Corporate Bond and Equity Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7339338)
     - with Xinlei Hao, Junbo Wang, Yuanzhi Wang (August 2026)
+    - Submitted.
   - [Stochastic Discount Factors with Cross-Asset Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5261076)
     - with Doron Avramov (February 2026)
     - **Journal of Econometrics**, Revise \& Resubmit.
     - INQUIRE Europe Research Grant Award 2025.
     - Best Paper Award, SYSU Conference on Big Data, AI, and FinTech 2025.
-  - [Cost-Aware Generative Portfolios](https://www.xinhesean.com/files/paper/main25.pdf)
+  - [Cost-Aware Generative Portfolios](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3071233)
     - with Lin William Cong, Jingyu He, Feng Ye (Oct 2026)
-    - [Slides](https://www.xinhesean.com/files/paper/slides25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/ijoc-supplyment-3.pdf)
+    - Submitted.
+    - [Paper](https://www.xinhesean.com/files/paper/paper25.pdf), [Online Supplement Material](https://www.xinhesean.com/files/paper/online-supplyment-3.pdf), [Slides](https://www.xinhesean.com/files/paper/slides25.pdf).
